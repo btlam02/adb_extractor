@@ -17,24 +17,27 @@ cd ADB-Extractor
 pip3 install -r requirements.txt
 ```
 
-## Script Usage
-
-```bash
-python3 acquisition.py -a <package name> -d [emulator | physical] -t [public | private | apk]
-```
-
-```bash
-python3 acquisition.py -a com.example.app -d emulator -t private
-```
-
 ## GUI Usage
 
 ```bash
-python3 acquisitionGUI.py
+python3 adb_GUI.py
+```
+
+## Scripts Usage
+
+```bash
+adb shell pm path <package name>
+
+# Trích xuất thư mục public:
+adb pull /storage/emulated/0/Android/data/<package name> /path/to/save/public_data
+
+# Trích xuất thư mục private(yêu cầu root):
+adb shell su -c "cp -r /data/data/<package name> /path/to/save/private_data"
+
 ```
 
 ## OS
-Tested on Linux, Windows and MacOS.
+Tested on  Windows and MacOS.
 
 ## Credits
 
