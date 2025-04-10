@@ -1,0 +1,20 @@
+1744171957741
+1744171957751
+1
+16
+content-type: image/jpeg
+content-length: 7569
+date: Mon, 24 Mar 2025 07:14:01 GMT
+last-modified: Thu, 05 Jan 2023 17:33:40 GMT
+etag: "452dddfe605f32920d688b8b697817f3"
+x-amz-server-side-encryption: AES256
+cache-control: public,max-age=2592000
+expires: Fri, 05 Jan 2024 17:33:39 GMT
+x-amz-version-id: ZeDPBMhoUwBeafv3mP7u0czV3QjzgfKp
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Hit from cloudfront
+via: 1.1 1a182e968af55c1f61e4db4b40f0cdf2.cloudfront.net (CloudFront)
+x-amz-cf-pop: SGN50-P2
+x-amz-cf-id: jEmcCX6dNSLItcB3hAq7uuOdS-f9QYP0USUfMnuiQSf23GrH8tw6Ag==
+age: 1371518

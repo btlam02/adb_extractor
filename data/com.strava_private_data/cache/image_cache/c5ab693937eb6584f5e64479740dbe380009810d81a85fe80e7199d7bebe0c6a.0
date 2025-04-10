@@ -1,0 +1,20 @@
+1744171931018
+1744171931026
+1
+16
+content-type: image/jpeg
+content-length: 7482
+date: Sun, 16 Mar 2025 06:26:19 GMT
+last-modified: Tue, 24 Dec 2024 13:16:04 GMT
+etag: "77a3fdc49345571c7b5c06e416b8ae34"
+x-amz-server-side-encryption: AES256
+cache-control: public,max-age=2592000
+expires: Wed, 24 Dec 2025 13:16:03 GMT
+x-amz-version-id: ksd1RhXvH9j23owfObqW7p2KYk3CePuG
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Hit from cloudfront
+via: 1.1 77db7c9c4eebf2d651ddc84a3f692da4.cloudfront.net (CloudFront)
+x-amz-cf-pop: SGN50-P2
+x-amz-cf-id: WM6qk9T_Am7vzqzCG14F7plmRYjhUj4ape-vulpklbDsVZqFmtqksA==
+age: 2065554

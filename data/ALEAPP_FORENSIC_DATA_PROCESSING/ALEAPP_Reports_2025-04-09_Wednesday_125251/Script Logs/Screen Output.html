@@ -1,0 +1,33 @@
+Processing started. Please wait. This may take a few minutes...<br>
+
+--------------------------------------------------------------------------------------<br>
+ALEAPP v3.3.0: ALEAPP Logs, Events, and Protobuf Parser<br>
+Objective: Triage Android Full System Extractions.<br>
+By: Alexis Brignoni | @AlexisBrignoni | abrignoni.com<br>
+By: Yogesh Khatri   | @SwiftForensics | swiftforensics.com
+<br>
+Info: 290 modules loaded.<br>
+Artifact categories to parse: 289<br>
+File/Directory selected: O:/forensic/data/com.strava.tar.gz<br>
+
+--------------------------------------------------------------------------------------<br>
+<br>
+ChromeAutofill [chromeAutofill] artifact started<br>
+Reading ChromeAutofill artifact had errors!<br>
+Error was no such table: autofill<br>
+Exception Traceback: Traceback (most recent call last):
+  File "O:\forensic\Aleapp\ALEAPP\aleapp.py", line 378, in crunch_artifacts
+    plugin.method(files_found, category_folder, seeker, wrap_text, time_offset)
+  File "O:\forensic\Aleapp\ALEAPP\scripts\artifacts\chromeAutofill.py", line 63, in get_chromeAutofill
+    cursor.execute(f'''
+sqlite3.OperationalError: no such table: autofill
+<br>
+<br>
+Processes completed.<br>
+Processing time = 00:00:00<br>
+Processing time (wall)= 00:00:00<br>
+<br>
+Report generation started.<br>
+Report generation Completed.<br>
+<br>
+Report location: O:\forensic\data\ALEAPP_FORENSIC_DATA_PROCESSING\ALEAPP_Reports_2025-04-09_Wednesday_125251<br>

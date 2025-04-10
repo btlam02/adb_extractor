@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="kotlin/2.1.10 android-min-sdk/26 fire-fcm/23.4.0 fire-analytics-ktx/21.5.0 fire-core-ktx/20.4.2 fire-android/28 fire-analytics/21.5.0 device-brand/samsung fire-core/20.4.2 android-installer/com.android.vending device-model/d2q fire-installations/17.2.0 android-platform/ fire-transport/18.1.7 device-name/d2que android-target-sdk/34">
+        <string>2025-04-09</string>
+    </set>
+    <long name="fire-count" value="1" />
+    <string name="last-used-date">2025-04-09</string>
+    <long name="fire-global" value="1744171919197" />
+</map>

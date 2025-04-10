@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Promotion.settings_student_plan_coachmark" value="false" />
+    <boolean name="Promotion.map_settings_ftux_night_heat_safety_modal" value="true" />
+    <string name="guid_key">a164abf8-be06-4cda-bd40-2995d55f2ca6</string>
+    <boolean name="StravaFeature.android-complete-profile-new-onboarding-architecture" value="false" />
+    <string name="pref.system_push_notification_setting_enabled">true</string>
+    <boolean name="pref.subscription.is_premium" value="false" />
+    <boolean name="StravaFeature.mre-new-tags-android" value="false" />
+    <boolean name="Promotion.trial_device_connect_user_dismiss" value="true" />
+    <boolean name="StravaFeature.outdoors-map-overlay-android" value="true" />
+    <boolean name="Promotion.subscription_overview_perks_new" value="true" />
+    <boolean name="Promotion.map_settings_ftux_coachmark" value="true" />
+    <boolean name="StravaFeature.chat-requests-privacy-setting-android" value="false" />
+    <boolean name="StravaFeature.maps-tab-map-only-winter-sports-android" value="true" />
+    <boolean name="StravaFeature.mre--enable-winter-hybrid--android" value="false" />
+    <string name="pref.athlete_lastname">Ka</string>
+    <boolean name="Promotion.activity_quick_edit_adp" value="true" />
+    <string name="pref.default_activity_highlight">photo</string>
+    <boolean name="Promotion.saved_route_filter_coachmark" value="true" />
+    <boolean name="pref.hide_map_athlete_eligibility" value="false" />
+    <boolean name="StravaFeature.ticket-deflection-ultimate-android" value="true" />
+    <boolean name="Promotion.sub_preview_welcome_modal_user_dismiss" value="true" />
+    <boolean name="Promotion.navigation_tab_you_edu" value="false" />
+    <boolean name="pref.subscription.is_pending_price_change" value="false" />
+    <boolean name="StravaFeature.branch-login-identity-clear-android" value="false" />
+    <boolean name="StravaFeature.map-settings-ftux-android" value="false" />
+    <string name="pref.user.refresh_token">eff0b02a606493d87f2c78ba4ebec2716956475d</string>
+    <boolean name="StravaFeature.quick-edit-map-style-android" value="false" />
+    <boolean name="StravaFeature.chat-first-message-android" value="true" />
+    <boolean name="StravaFeature.post-media-and-links-android" value="false" />
+    <boolean name="pref.consent.has_responded_to_direct_promotion" value="false" />
+    <boolean name="StravaFeature.activity-sharables-link-back-sticker-android" value="false" />
+    <boolean name="Promotion.map_visibility_new_label_coachmark" value="true" />
+    <string name="pref.subscription.sku"></string>
+    <boolean name="Promotion.navigation_tab_groups_edu" value="false" />
+    <string name="pref.force_update_cta_url"></string>
+    <boolean name="StravaFeature.sub-upsell-management-android" value="true" />
+    <boolean name="Promotion.adp_link_coachmark" value="false" />
+    <boolean name="StravaFeature.post-photo-limit-android" value="false" />
+    <boolean name="pref.feed.prioritize_recent_activities" value="false" />
+    <boolean name="Promotion.adp_phase_one_sheet_coachmark" value="false" />
+    <boolean name="Promotion.chat_feature_create_channel_coachmark" value="false" />
+    <boolean name="Promotion.flyover_education_coachmark" value="true" />
+    <boolean name="StravaFeature.oauth-pkce-android" value="false" />
+    <boolean name="Promotion.map_redesign_tooltip_search_here_unseen" value="true" />
+    <boolean name="StravaFeature.mre--use-strava-tiler-endpoint--android" value="true" />
+    <boolean name="StravaFeature.use-fatmap-client-map-playground-android" value="true" />
+    <boolean name="pref.athlete_is_student" value="true" />
+    <boolean name="StravaFeature.flyover-detachable-camera-android" value="true" />
+    <int name="pref.all_time_activity_count" value="13" />
+    <string name="pref.email_verification_status">verified</string>
+    <boolean name="pref.metro_heatmap_opt_in" value="true" />
+    <string name="pref.units_of_measure">kilometers</string>
+    <string name="pref.privacy.flybys_visibility">no_one</string>
+    <boolean name="pref.autoplay_video" value="true" />
+    <boolean name="Promotion.maps_tab_dirt_sports" value="false" />
+    <boolean name="Promotion.navigation_tab_groups_active" value="true" />
+    <boolean name="Promotion.club_event_link_coachmark" value="true" />
+    <boolean name="Promotion.settings_student_plan_new_label" value="true" />
+    <boolean name="Promotion.mentions_setting_row_coachmark" value="false" />
+    <boolean name="Promotion.sub_preview_group_tab" value="true" />
+    <boolean name="StravaFeature.settings-gifting-android" value="false" />
+    <boolean name="Promotion.flyover_education_coachmark_routes" value="false" />
+    <boolean name="StravaFeature.hide-start-time-android" value="true" />
+    <boolean name="Promotion.record_screen_routes_coachmark" value="true" />
+    <boolean name="pref.signup_name_complete" value="true" />
+    <boolean name="pref.subscription.is_downgrading" value="false" />
+    <boolean name="Promotion.navigation_tab_maps_edu" value="false" />
+    <boolean name="StravaFeature.private-event-flyer-android" value="true" />
+    <string name="pref.who_can_mention">everyone</string>
+    <boolean name="StravaFeature.report-athlete-android" value="true" />
+    <boolean name="StravaFeature.shareables-transparent-stat-asset-instagram-android" value="true" />
+    <boolean name="StravaFeature.flyover-variable-speed-android" value="false" />
+    <boolean name="StravaFeature.snowplow-video-analytics-android" value="true" />
+    <int name="pref.athlete_badge_type_id" value="0" />
+    <boolean name="StravaFeature.adp--polyline-highlights--android" value="false" />
+    <string name="pref.sponsored_partner_opt_out">[]</string>
+    <string name="pref.carousel_start_positions">{&quot;progress_on_home&quot;:&quot;1&quot;}</string>
+    <string name="otp-authentication-android">variant-a</string>
+    <boolean name="StravaFeature.feature-switch-menu-android-prerelease" value="false" />
+    <boolean name="StravaFeature.share-activity-hide-tabs-android" value="false" />
+    <boolean name="pref.subscription.is_ended" value="false" />
+    <boolean name="Promotion.activities_trial_coachmark" value="true" />
+    <string name="pref.subscription.platform"></string>
+    <int name="pref.athlete_has_friends" value="0" />
+    <boolean name="Promotion.follow_mode_coachmark" value="false" />
+    <boolean name="Promotion.navigation_tab_education_modal_groups_j2" value="false" />
+    <boolean name="StravaFeature.chat-photo-upload-android" value="false" />
+    <boolean name="Promotion.navigation_tab_home" value="true" />
+    <boolean name="StravaFeature.sport-specific-heatmap-coachmark-android" value="true" />
+    <boolean name="Promotion.subscription_overview_icons_new" value="true" />
+    <boolean name="Promotion.map_redesign_tooltip_search_bar_unseen" value="true" />
+    <boolean name="pref.athlete_under_age" value="false" />
+    <boolean name="Promotion.quick_edit_link_coachmark" value="true" />
+    <boolean name="Promotion.chat_compose_first_message_sheet_impression" value="true" />
+    <boolean name="StravaFeature.adp--map-layer--android" value="false" />
+    <boolean name="StravaFeature.stat-privacy-android" value="true" />
+    <boolean name="Promotion.progress_trial_coachmark" value="true" />
+    <boolean name="pref.account_is_winback" value="true" />
+    <boolean name="StravaFeature.adp--map-settings-heatmap--android" value="true" />
+    <boolean name="StravaFeature.create-club-android" value="true" />
+    <boolean name="pref.authorization.facebook_token_unprocessed" value="false" />
+    <string name="pref.privacy.local_legends_visibility">everyone</string>
+    <boolean name="StravaFeature.flyover-route-detail-entrypoint-android" value="true" />
+    <boolean name="Promotion.navigation_tab_groups_challenges" value="false" />
+    <boolean name="Promotion.all_subscription_upsells" value="false" />
+    <boolean name="StravaFeature.route-detail-send-to-device-android" value="false" />
+    <boolean name="Promotion.club-event-share-coachmark" value="false" />
+    <boolean name="Promotion.sub_preview_conversion_modal_impression" value="true" />
+    <string name="pref.athlete_profile_image_url">https://lh3.googleusercontent.com/a/ACg8ocLKg2p31XxgBA69EuOhZyPSZPDP2ySYrnsLzNQaHqi0-qXmSg=s96-c</string>
+    <string name="pref.athlete_gender_2">man</string>
+    <boolean name="Promotion.activity_quick_edit" value="true" />
+    <boolean name="Promotion.mentions_setting_cog_coachmark" value="false" />
+    <boolean name="Promotion.groups_trial_coachmark" value="true" />
+    <boolean name="Promotion.sub_preview_maps_overlay" value="true" />
+    <boolean name="StravaFeature.report-club-android" value="true" />
+    <boolean name="Promotion.navigation_maps_tab_map_settings_ftux" value="true" />
+    <string name="otp-signup-android">variant-a</string>
+    <string name="pref.subscription.recurring_period"></string>
+    <boolean name="Promotion.progress_trend_compare" value="true" />
+    <boolean name="StravaFeature.link-coachmarks-android" value="false" />
+    <boolean name="StravaFeature.mux-dev-environment-android" value="false" />
+    <boolean name="StravaFeature.be-ride-filters-android" value="true" />
+    <boolean name="StravaFeature.adp--gradient-polyline-android" value="true" />
+    <boolean name="StravaFeature.race-predictions-android" value="false" />
+    <boolean name="Promotion.club_detail_v_2_first_visit_modal" value="false" />
+    <boolean name="Promotion.navigation_tab_you" value="true" />
+    <boolean name="pref.account_is_new_reg" value="true" />
+    <boolean name="Promotion.progress_trend_analysis" value="true" />
+    <string name="pref.user.short_lived_access_token">1b8c24c6185d1446aa76bd675fd2564a1acddeff</string>
+    <boolean name="pref.subscription.is_trial_eligible" value="true" />
+    <boolean name="StravaFeature.mre-maps-tab-android" value="true" />
+    <boolean name="Promotion.settings_student_plan_promotion_hide" value="true" />
+    <boolean name="StravaFeature.activity-confirmation-android" value="true" />
+    <boolean name="StravaFeature.maps-new-route-search-android" value="false" />
+    <boolean name="StravaFeature.weekly-heatmap-android" value="true" />
+    <boolean name="Promotion.trial_education_welcome_sheet_impression" value="true" />
+    <boolean name="Promotion.activity_details_interactive_charts_coachmark" value="true" />
+    <int name="pref.athlete_type" value="1" />
+    <boolean name="StravaFeature.event-flyer-android" value="false" />
+    <string name="pref.subscription.premium_since_date"></string>
+    <boolean name="Promotion.mentions_new_label_coachmark" value="false" />
+    <boolean name="StravaFeature.native-routes-browse-graphql-android" value="false" />
+    <boolean name="Promotion.trial_device_connect_post_record" value="true" />
+    <boolean name="Promotion.subscription_feature_showcase_android" value="true" />
+    <string name="pref.route_type_v3">Run</string>
+    <boolean name="StravaFeature.low-memory-analytics-android" value="false" />
+    <string name="pref.privacy.profile_visibility">everyone</string>
+    <boolean name="StravaFeature.family-plan-upsell-2-android" value="true" />
+    <boolean name="StravaFeature.adp--hero-chart--android" value="false" />
+    <boolean name="pref.subscription.is_winback" value="false" />
+    <string name="pref.all_time_activity_sports">null</string>
+    <boolean name="Promotion.sub_preview_you_tab" value="true" />
+    <boolean name="Promotion.progress_upsell" value="false" />
+    <string name="pref.privacy.activity_visibility">everyone</string>
+    <boolean name="Promotion.chat_feature_try_cta_impression" value="false" />
+    <string name="pref.privacy.chat_invite_visibility">followers_only</string>
+    <boolean name="Promotion.map_visibility_setting_cog_coachmark" value="true" />
+    <boolean name="Promotion.activity_save_walkthrough" value="false" />
+    <boolean name="Promotion.navigation_tab_groups_clubs" value="true" />
+    <boolean name="StravaFeature.adp--phase-1-full--android" value="true" />
+    <boolean name="Promotion.chat_feature_impression" value="false" />
+    <boolean name="StravaFeature.recording--new-screen--android" value="false" />
+    <boolean name="Promotion.switch_to_one_time_codes_new_tag" value="true" />
+    <boolean name="StravaFeature.night-heatmap-android" value="true" />
+    <boolean name="Promotion.navigation_tab_you_activities" value="true" />
+    <boolean name="Promotion.record_screen_beacon_coachmark" value="false" />
+    <boolean name="StravaFeature.android-goals-widget" value="false" />
+    <boolean name="Promotion.map_redesign_tooltip_map_only" value="false" />
+    <boolean name="StravaFeature.stride-access-android" value="false" />
+    <boolean name="Promotion.completed_profile" value="true" />
+    <boolean name="Promotion.maps_tab_dirt_first_time_experience_free" value="false" />
+    <boolean name="pref.subscription.is_in_preview" value="false" />
+    <boolean name="StravaFeature.use-non-commutable-activity-types-android" value="false" />
+    <boolean name="StravaFeature.maps-redesign-ftux-coachmarks-android" value="true" />
+    <boolean name="StravaFeature.database-analytics-android" value="false" />
+    <boolean name="StravaFeature.network-error-toast-android" value="false" />
+    <long name="pref.user.access_token_expires_at" value="1744193528" />
+    <boolean name="StravaFeature.map-only-surface-android" value="true" />
+    <boolean name="StravaFeature.adp--hero-layer--android" value="true" />
+    <boolean name="StravaFeature.mre--disable-fallback-to-mapbox-tiler-endpoint--android" value="false" />
+    <boolean name="StravaFeature.flyover-stats-overlays-android" value="true" />
+    <boolean name="Promotion.navigation_tab_you_progress" value="false" />
+    <boolean name="pref.athlete_has_password" value="false" />
+    <boolean name="StravaFeature.advanced-screenshot-tracking-adp-android" value="false" />
+    <boolean name="StravaFeature.saved-route-filter-coachmark-android" value="false" />
+    <boolean name="Promotion.yis2022_experience" value="true" />
+    <long name="pref.subscription.premium_expiration_time_ms" value="-2" />
+    <boolean name="StravaFeature.terms-of-service-2024-backfill-android" value="false" />
+    <boolean name="StravaFeature.adp--new-screen--android" value="false" />
+    <boolean name="StravaFeature.billing-library-v6-android" value="false" />
+    <string name="pref.default_you_tab_index">progress</string>
+    <boolean name="Promotion.routes_trial_coachmark" value="true" />
+    <boolean name="StravaFeature.shareables-transparent-asset-polyline-android" value="false" />
+    <boolean name="Promotion.map_visibility_setting_row_coachmark" value="true" />
+    <boolean name="StravaFeature.android-new-onboarding-architecture-progress-bar" value="false" />
+    <long name="pref.subscription.start_time_ms" value="-1" />
+    <boolean name="Promotion.terms_of_service_2024_backfill" value="true" />
+    <boolean name="pref.trial_device_connect_screen_viewed" value="false" />
+    <long name="athleteIdKey" value="163879020" />
+    <string name="pref.user.access_token">39bf0aa5ab29bb5e11e7ae6c5c2a3a995373010c</string>
+    <boolean name="Promotion.geo_sport_specific_heatmap_two" value="false" />
+    <boolean name="StravaFeature.create-club-chat-android" value="false" />
+    <string name="installed_before">YES</string>
+    <boolean name="Promotion.activity_detail_postsell_onb" value="true" />
+    <boolean name="Promotion.record_screen_spotify_coachmark" value="false" />
+    <long name="pref.preferred_sport_ordering_updated_at" value="1744171928624" />
+    <boolean name="StravaFeature.progress-overview-charts-new-android" value="true" />
+    <boolean name="Promotion.terms_of_service_modal_2024" value="true" />
+    <string name="pref.temperature_units">celsius</string>
+    <boolean name="StravaFeature.explore-android-saved-routes-filter" value="true" />
+    <boolean name="Promotion.sub_preview_welcome_modal_impression" value="true" />
+    <boolean name="StravaFeature.progress-comparison-android" value="true" />
+    <string name="pref.privacy.grouped_activities_visibility">everyone</string>
+    <boolean name="StravaFeature.billing-disable-ack-android" value="true" />
+    <string name="pref.preferred_sport_ordering">Workout</string>
+    <boolean name="StravaFeature.new-terms-of-service-2024-android" value="true" />
+    <boolean name="StravaFeature.modular-ui-dropped-frames-tracking-android" value="true" />
+    <boolean name="Promotion.dirt_sports_goals" value="true" />
+    <boolean name="Promotion.settings_student_plan_promotion_open" value="true" />
+    <boolean name="StravaFeature.activity-sharables-android" value="true" />
+    <boolean name="Promotion.verified_segments_info_coachmark" value="true" />
+    <string name="pref.athlete_firstname">Ta</string>
+    <boolean name="Promotion.feed_follow_option_coachmark" value="false" />
+    <boolean name="StravaFeature.challenge-detail-page-share-android" value="true" />
+    <boolean name="pref.subscription.is_in_trial" value="false" />
+    <string name="chat_token">eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMTYzODc5MDIwLTMzNDQ3Mjc3MjE4NjE2NTY3NzYiLCJleHAiOjE3NDQyMDMzNTgsImlhdCI6MTc0NDE4MTc1OCwiaXNzIjoiU3RyZWFtIENoYXQgSmF2YSBTREsiLCJzdWIiOiJTdHJlYW0gQ2hhdCBKYXZhIFNESyJ9.5DzJyH9AurNNjylbncX0eOHetOYB-sowf0hs5-CT8YE</string>
+    <boolean name="StravaFeature.map-settings-ftux-retarget-android" value="false" />
+    <boolean name="Promotion.navigation_tab_groups" value="true" />
+    <boolean name="Promotion.navigation_tab_you_profile" value="true" />
+    <boolean name="Promotion.activity_detail_halfsheet_upsell" value="false" />
+    <boolean name="pref.has_seen_quick_edit_title_coachmark" value="true" />
+    <boolean name="StravaFeature.add-friends-qr-android" value="false" />
+    <boolean name="pref.subscription.is_grace_period" value="false" />
+    <boolean name="StravaFeature.shareables-transparent-stat-asset-android" value="true" />
+    <int name="pref.force_update_current_version_code" value="-1" />
+    <boolean name="StravaFeature.edit-club-android" value="true" />
+    <int name="pref.device_year_class" value="2015" />
+    <boolean name="StravaFeature.stride-access-android-p1" value="false" />
+    <string name="pref.force_update_message"></string>
+    <boolean name="Promotion.create_club_nav_groups_education_badge" value="true" />
+    <boolean name="StravaFeature.suppress-feed-popups-android" value="false" />
+    <boolean name="StravaFeature.chat-requests-ui-android" value="false" />
+</map>

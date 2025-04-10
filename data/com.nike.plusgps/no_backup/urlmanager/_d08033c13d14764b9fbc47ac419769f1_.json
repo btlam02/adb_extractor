@@ -1,0 +1,1767 @@
+{
+  "version": 13,
+  "id": "com.nike.nrc.en",
+  "language": "en",
+  "region": "US",
+  "platform": "android",
+  "bundles": [
+    {
+      "id": "male_en",
+      "assets": {
+        "almost_at_goal": "0c22eb510662b728f94a679bd6ab3a9f9912e38d",
+        "almost_at_goal_powersong": "b6bb8f3976ad5d7ccd94110bfe66ac7c97f31b62",
+        "average_pace": "b31c47d0c5c0396c79cbf3ac7c0489f22be8ba1d",
+        "beginning_workout": "0b8d66eea83b715627633608b9baf33b1b108162",
+        "beyond_your_goal": "0b4079c11e79d2a2e52e62ec4ed8180bbf3de3b8",
+        "calories": "958c3591bd37e109808aa61908aaf742bdd04d84",
+        "completed": "a26adc8b1263809ca04897413fbc7df29763eb8c",
+        "congratulations": "6cea5792ef1c67e2d79aefdec40cb54463209921",
+        "current_pace": "e5761ac0b1fcde0aab7d1c680160080a65ecbc98",
+        "distance": "d5042e68fb32e2cb59b72c7135aca13073fe0ea1",
+        "distance_goal_reached": "3548a2dd5f8a51818b550b3196c46778338e2061",
+        "eight": "ba77533039d1e1f6a69416b009abf1d33c013c5c",
+        "eighteen": "9b2e2d8ea9811082f9ae535db8f85b0d95ae43ee",
+        "eighty": "877bcf16340010756b4f3e3ed62c0de8ca553bf6",
+        "eleven": "29f7a2cdd675459fe010460ec310760c098c3873",
+        "fifteen": "a0994abc5f5976012e4af12509965c94c01a3e1f",
+        "fifty": "c902805cd1de2af30a3627f820fa4d543ad3465b",
+        "five": "84d8e8e28805a0177062f1c52b0ace359c86f30b",
+        "forty": "b418fab6dec74afc1da700bf2034f6ba180f9f09",
+        "four": "f2d565bec055033bb1acff96dcf6039c965cdc90",
+        "fourteen": "036311c5debb678a70f3e3c3d161eac284ff8212",
+        "getting_close_distance_record": "f02f7bc740e79b3c88e521c35172e80a7e0d6d49",
+        "getting_close_distance_record_powersong": "645b9d3ee2d64d032a789648e298d56b4f1d1ece",
+        "getting_close_time_record": "7420923fada1438f9c6d3913bc32d9bd86e93c9d",
+        "getting_close_time_record_powersong": "4c93dcfe07f361d6b7c52e74bdc8102069d067b9",
+        "halfway_point": "f1b0016dbff36374f6a0999ddc240944b44a0a63",
+        "hour": "3b667d062b3e66a9f29ec7d0a5a084b209ecdade",
+        "hours": "7d2e8db713212386270bd61d274dd837fb358e4c",
+        "hundred": "763ccfc8082909036e4c8326ec2b50a57ba05577",
+        "kilometer": "a4a8e2426f8842d683e7372a7449437a988ebf83",
+        "kilometers": "4b5e242ffe271edc004b1915f952f209629d2906",
+        "kilometers_beyond_your_goal": "9c4f528fc3719e410b0c78d036b25481b488c69d",
+        "kilometers_completed": "5bcce179d6a7b8f40706a947193ac3310d3ae62d",
+        "kilometers_to_go": "9fca0ebaef21f9eab4a51282c144e00718d7bd54",
+        "meter": "a61d66ee41936f5193b83a36282d425489112de2",
+        "meters": "4b43f986369d222ab2ac902d066b6115c14c91dd",
+        "mile": "3946f97ebfd3b3f11da7dd038b3e5d4035fc56b6",
+        "miles": "7a96d22ac9562494f8a95086b16b863ef6b9d8b2",
+        "miles_beyond_your_goal": "e0b0d3b71ad889623356d8593ebc98cd919e6c62",
+        "miles_completed": "d55153c635281583f8b1476da596a14b13e29553",
+        "miles_to_go": "cbb9c6eb34c24b1a81cea3d96a77b43e839e9b42",
+        "minute": "8d0bf717f20a5991c6f5f9ba47a541ffb73a9d26",
+        "minutes": "27c1ea3b2870e90798b7eb8d4ee077327ab0eeb6",
+        "nine": "322715741260079e5dd9ba9cfc521859af11b925",
+        "nineteen": "516d7d5252452090b8225cc54c4bb49effe067f2",
+        "ninety": "3a0ec1c380b6f0e06e63a8dfa16208af51ef5ea1",
+        "one": "d1eb714e975f04a089975682ddd74b48f6e8a248",
+        "one_kilometer_beyond_your_goal": "dcf0204d54fb0d76906085a97b98a4fd4c7e64de",
+        "one_kilometer_completed": "e58967870ada93d60bb3a4260953f5fb87127b54",
+        "one_mile_beyond_your_goal": "481a0fc6cf29c356ddfb594c9384e1d4dc7d3fc2",
+        "pace": "6a05ffff7996115d7d820c515797a9efc2c24945",
+        "pace_goal_reached": "54b68daf4292d7d57581de1b956c11ac3d76068d",
+        "pausing_workout": "b23ad10f6120811f4cec14f376c582e99807ecae",
+        "per": "80a6662a8f1f78fa5c53b1898980f6f5b1dc335b",
+        "per_kilometer": "88ed51fd38a5bbb39e4c04e0c27c1e8e284320df",
+        "per_mile": "4c58897b6f3398ecca19608082e51c11363d0307",
+        "point": "12fbe4841b147dc3178888f99e1997bc0762d6a4",
+        "remaining": "6ebd81429b9ef6f4261fd91e86c7f955e90e116c",
+        "resuming_workout": "731b4277a248d49ef6491f123ae98c0db8c953d0",
+        "second": "a8d4e4b5ae1508da85bf44ba51a1e3d7855d776b",
+        "seconds": "8794f11ccbd2b844c3214bfbe7a4840b51185e68",
+        "seven": "02eb6e4dcf3ecf0ebacd38a922f44bc4f43faaa7",
+        "seventeen": "664c2f95c629934154950e3130e3388eaf5e419d",
+        "seventy": "faba03ea33cd039cb86e68dcbd35c2fe7fbe9813",
+        "six": "c85eb3746f0798e75eec3ac70dc624b67e816464",
+        "sixteen": "f2b4b81c608e6bc5acf43367dc812802dfacc359",
+        "sixty": "6ac6ff7c9d4376f28fb8691e187e1add969afa7e",
+        "ten": "b83b6bfa00930dedbca42df7ea583e9fd76394ff",
+        "thirteen": "d0c0d6a9775dbaaa7d7a23c15401c135c2a7a8ce",
+        "thirty": "056a4a4c0a5b910b1b7bf7015eebc880a8e33232",
+        "thousand": "3eb21a854a1ca25defc51ea1894392f6ce15ddc0",
+        "three": "0c561c0b39c7a4c33231807a5c70f3a9fa4ce0b9",
+        "time": "76cad74313e484b2c02117ccff4858dca5ee2ea5",
+        "time_goal_reached": "6d6594ccbc0d8cb160ab679f8ae76ec8a3dad169",
+        "to_go": "656d81a188e7fd69c93a2177de3694dfa9a7e154",
+        "to_reach_your_goal": "7f5d640fbab3c2a3d47c77eb2e5437aa5516c652",
+        "twelve": "695173d0def3ddc52f15f2e1cf8b2a2e52a9857f",
+        "twenty": "995927d09851aca25d847c84848cfa31c18615d0",
+        "two": "bac654746ce5c8bca7429c8842c9ec47ef09e085",
+        "two_minutes_remaining": "f9055ce8b51342780884674a9b6e1c7874156938",
+        "workout_completed": "eaddf00208d119d59ddd567ee4f152bdcb4f9641",
+        "you_have_run": "989da4388146c4d2b9b054b364cdda18dac0a6b9",
+        "youve_reached_your_goal_of": "ab6be6956061bd612847024597439f61b820d3ba",
+        "youve_reached_your_goal_of_burning": "1bba63cfa42d4932c5885f1c2ce4bab40f44259a",
+        "zero": "43711f84cb9fd5ade792e1f5cb66ae4f390702d1"
+      }
+    },
+    {
+      "id": "female_en",
+      "assets": {
+        "almost_at_goal": "1019742086638ec76ec5b7a0113469cd2974b15b",
+        "almost_at_goal_powersong": "e99f721406e99d49c9082e33792d7d046eaa26a7",
+        "average_pace": "9ac52ec153baadba09c80ba326258665157d3160",
+        "beginning_workout": "f84ef9f81d3c93290800cf02b21cb4e3f05de82e",
+        "beyond_your_goal": "0b776f557e3f5525a9084aa6da564a12d01933da",
+        "calories": "7dcd2f2f67cd6470f774b7bbd89b9151de511156",
+        "completed": "2f33af48fc24eb7592ad1949a293ec8464e853a5",
+        "congratulations": "bfb34d10c2ffa67c33e5be5532cb2ac4e1fc63ca",
+        "current_pace": "34c265fee86d08093e9f31ecc90528ebb208e4e8",
+        "distance": "268a8a1e955da984b39863ba7a189dcd2233770b",
+        "distance_goal_reached": "273944153b89725c96f1cbe1de29332bd67ea25b",
+        "eight": "7357d38b60b4c0831df8e623873be911fd79ca84",
+        "eighteen": "1e66ce3bb8747eb507adf7adc9e55762f6ad93e4",
+        "eighty": "38932d03d5dd1c7d6a0674f9e9b6abe7ac035e38",
+        "eleven": "5cad15acc864f8c764e307f71b8e1f2c03bc3420",
+        "fifteen": "01be642c3255a6c30275baebf6f2c98c71100acf",
+        "fifty": "adf88b1e21db2d420cdfbac3be044a0fc1b9e0c8",
+        "five": "f46700b261023b04afa10cd784b57a62967742fc",
+        "forty": "173905b5d7b46a1a882fdfbcf8435f5e946b4cbb",
+        "four": "1ec03c4dda94c6f9de7feb48ff3731ee587fe78a",
+        "fourteen": "b823dc67bc01f297b6cd36b11de60210c324a555",
+        "getting_close_distance_record": "79d529977690b2daf49233dc7953417b244ec26e",
+        "getting_close_distance_record_powersong": "1c98e1557558ff0b33cb768f25fc1a8bbd6affef",
+        "getting_close_time_record": "d3e0348194153b904bd4e7186934ad972244b68b",
+        "getting_close_time_record_powersong": "10614c7160d14208ae7bf10d16a3010f99d1c210",
+        "halfway_point": "90525a90622f7d9bf7ce8e1e1a52cff6021973c6",
+        "hour": "e68dede43c909d1f7888ab6801395e4d505b3869",
+        "hours": "23c2fa75a974ee16b2408f90970fe65081b734b4",
+        "hundred": "6d830dc337b408b49240d31481f50566611394b9",
+        "kilometer": "bee176a1cc47512d860b328934d910e3d9884e52",
+        "kilometers": "0cfb0b911712162b9b23db80d9ee85df7208f49f",
+        "kilometers_beyond_your_goal": "2363a7413e0f593410ab75b98fe8bd030a18611e",
+        "kilometers_completed": "b7c278f6a4fe24b4d412feeeea792bd22b522f5c",
+        "kilometers_to_go": "7be3302e68ccbd235b6f1e2f815f6eca454323e9",
+        "meter": "52af227d45a74ecb5aa080c46084adf2420739a6",
+        "meters": "c2cb52eacf646f12036feed2d9473142c920673e",
+        "mile": "68bbcd8bb88c5f367bb9fa87ee227443e84e1de6",
+        "miles": "93b36d94808affbcee308f79553844199b6142fa",
+        "miles_beyond_your_goal": "3e34f3bdc65b3b1178283d76e87c339b9ed95b5a",
+        "miles_completed": "4f9f7faf419d405e4c1038fdeaf3130cd8629d2e",
+        "miles_to_go": "ad590b1f6da8a25080e31c94feebea7454b0f114",
+        "minute": "660e9851ca13e92b26347f8dfda8e84eb68381c6",
+        "minutes": "74a1105e393fb3ce6a7fe4396f46fc77fdada166",
+        "nine": "a4957f2884e66b07467725a91a7eb18c8a2b29a0",
+        "nineteen": "e12d43e9711cb4852306af4f5a8e03488ea2afe7",
+        "ninety": "158d7c8258ced7c639dc914ad062772c1ad44c49",
+        "one": "d95c3677ef827b118f89f4fa7ce31addb5d0932b",
+        "one_kilometer_beyond_your_goal": "5d8e711f3297c1b058a34e80156a919b4bb7c2ea",
+        "one_kilometer_completed": "9f23a85814ed0595b981277440eb29144be9aa8c",
+        "one_mile_beyond_your_goal": "55713fd3113e7733ff167db768f9d1e35f210917",
+        "pace": "61f494b919f5ea8d21a8bc97660cedd87004d105",
+        "pace_goal_reached": "b347b03c41a53057288dad31dc6f187edddef273",
+        "pausing_workout": "753d688762a40251a727016816e200d73e65ef00",
+        "per": "e2230b89e3168a1168ebdb64c45c1d51e7d135f9",
+        "per_kilometer": "d862832efe981578c18aeec04f8adb3f997665e6",
+        "per_mile": "aa3427a0b9acf16a85947f5f88940779fcf258ef",
+        "point": "03784754b404d0bf6f7b7bd979f2da11897f86f0",
+        "remaining": "b54e186e844b9298282959be3027038b5f74ebd5",
+        "resuming_workout": "cd91fc58c8f77f82b98eea82c370411f969356b3",
+        "second": "b57fab60f61a1c85d987e77fbd4a3f5008e4dc2d",
+        "seconds": "b5e4d86f418fa0965c060a8cc8b3c1936b82cb87",
+        "seven": "5a22a436b57d19c04a08aa641114a78082b75637",
+        "seventeen": "0289bf379461fcd00393b219585768791ec860b6",
+        "seventy": "7497ea731152df68dfe712b8f7f6ab174ae963c4",
+        "six": "79eca8b55bf0b06312dca27e79cf2e4d4845875e",
+        "sixteen": "7e2e0a693364260173f3e716dd79051a4f8094ec",
+        "sixty": "e7610be588fa9bcb34cb874df7b3513b0c0adfee",
+        "ten": "765a16a1082533f57a3e30e78f947764e9065f1b",
+        "thirteen": "722f9ca6f2ebd6e9dd03ce8a5203a3aa8ca3eab0",
+        "thirty": "cd9f4a70bf65af2be255f1afc09b8dab9f319dbe",
+        "thousand": "e38a56b4a39d074f8b67c5acb4a41e7a706ed50a",
+        "three": "e5bd8cd3aa5d798f8a184cfa459b206ed5dd8b01",
+        "time": "cab2c065c7f02d0d41898003c5fbe51b0e4450d7",
+        "time_goal_reached": "61d08d7b19f9b387b271510c32d4a2d9a6fcec45",
+        "to_go": "fdc02be90b99c44672728a69f39e33fe65058898",
+        "to_reach_your_goal": "dd3e6d55e5b0a40290ce40ec39af6e85bddc11b5",
+        "twelve": "5ca2e67c7b59010497e75d48fb2499b181a2dcd1",
+        "twenty": "15461321ccbc20b9398912634bf922abd00f57d0",
+        "two": "a81b4d34c86750bc710fda56e4899b35f0c34c20",
+        "two_minutes_remaining": "45cd6605e00b96380bdaf0fa9a5463cebc129eb3",
+        "workout_completed": "d06e3f3e204a1847f184c9b5e32abed754f116bf",
+        "you_have_run": "da87a64a28f7d87c39828f02c9deff970bf0bdee",
+        "youve_reached_your_goal_of": "df53ac7d3e74a9f9f9f3967772d0efa9adcaadc2",
+        "youve_reached_your_goal_of_burning": "f89a02e46322123377579a631e4b6d9cea07333a",
+        "zero": "4664c72944fc17688427fb66db09a293cfe813bf"
+      }
+    },
+    {
+      "id": "guidedruns_en",
+      "assets": {
+        "BM1": "ed89ed20f85457c273a731ede6392576d26616e4",
+        "BM2": "f05ebed2d138204a156452d1fd10b290d412dc9e",
+        "BM3": "9591fbdc80ad8c4d30c9e1a4fcad2cc60a62ac32",
+        "BM4": "83fd8f7660b6c3b166b9b0adefca51a7cedbe1c0",
+        "BM5": "319f4fa797399b806352bbea85692be40d21eaa8",
+        "BM6": "3293ccd958b7aa6aee3eefe156da5311deb102ea",
+        "BM7": "9e0d8850bbc42cee54aad2145ccc14b3bdddc28d",
+        "CD0": "7c9e9984d9c9479328a36e513e645dd3ca28ee3f",
+        "CD1": "f4c1a08d0e6bd1b7d8c30dc6c6c9facd2db4f4f4",
+        "CD2": "336926d79ad938a1d650c2b9e0f7675ce34b06ed",
+        "CD3": "3c9f81aa6e4111690bcd87c0d49fdcd863f70f77",
+        "CD4": "1b97eb3f49267d871a9e755cd410bc33eb79349c",
+        "CD5": "358c803ff3eb44a8be08d3e611b1e2aa40e0f7e9",
+        "CD6": "bf5f80a1eda90d509b180edd04bf9ec0945b5f04",
+        "CD7": "a7ca832acb25818fb5632f66de4e5e5cd91f075d",
+        "CD8": "41ebb21f0c7c38052855fd7d2ea982d248d3d408",
+        "jdis05coach1": "dfdac8c9b7219ac3eb5027afc4a163a589cde856",
+        "jdis05coach2": "899c364d6e248c4bde7478f5dc303c1db02e35f9",
+        "jdis05pacer": "f5dcdb780bd162f68bf5936e13152e78f369a5dc",
+        "jdis25coach1": "1c41356f70d108f7677070cccd9ae70be9885844",
+        "jdis25coach2": "ec3f8b58dd6a078fc8d031592a4ea560e9b0b242",
+        "jdis25pacer": "5fed65952026cc1b22bb7184a8f41534655e4e86",
+        "jdis45coach1": "1752737cff9ed39df5827f36decf57b203decf39",
+        "jdis45coach2": "1333fb97803832a3037b19077a91199639af2004",
+        "jdis45pacer": "c6946319456e3017372d4846602e266f83b2bdf1",
+        "jdis50coach1": "2c4925c3c04f1b1546ee170d75382501edec5b2d",
+        "jdis50coach2": "2afcc33398c72fd3c978285d6e95c89544f906c9",
+        "jdis50pacer": "392fa3906261ca1700f4933cb04b3254a2fcc065",
+        "jdis65coach1": "f6c076e5dbee8198c04d041931546ae9309081e4",
+        "jdis65coach2": "c1f5315044892f3b2f5b158b9807288f380b21d7",
+        "jdis65pacer": "6af9006a5a0d24d1fa780b517e91786dff5d2956",
+        "Warmup1": "438ade9a5282232d05fb9f45cefab4e248db9594",
+        "WarmUp2": "8e41826742a5dd30b3b7a5fd3d5a79dc2bd91c56",
+        "WarmUp3": "bf3d5898ff1803efba59abd731df0e0f6888011e",
+        "WarmUp4": "95287fbf71ffadf929364d6926120994af81089e",
+        "WarmUp5": "e86262f67b2ba90831373c772c31e98b58e237c7",
+        "WarmUp6": "819fb35a2eff00bc4e61a7dc46e7e78333e70745",
+        "WarmUp7": "2ce60077687b704bb818fd642cd693cfcac5d92f",
+        "WarmUp8": "37ef97ea0d624235a2d3afe33f8318007ca06692",
+        "WarmUp9": "dc1a64b8b56a55c4d203cf62527482b946d5ca69"
+      }
+    },
+    {
+      "id": "encouragements_en",
+      "assets": {
+        "CoachBennett_Generic1_NA_English": "0540f90e51c7a2e49d870c56051a00d0614889fd",
+        "CoachBennett_Generic2_NA_English": "73e1fea0ac2210c89dd1f66e28a793c5c21d28ee",
+        "CoachBennett_Generic3_NA_English": "b03f1d87136132d1b5be6ccd768fd1b956ec5a45",
+        "MoFarah_Generic1_NA_English": "b13fb38c0a6195ef689a3167e6d2d2c3bd248931",
+        "MoFarah_Generic2_NA_English": "c189dfd442113ca71f76cdfe4c94c354d49c7ea8",
+        "MoFarah_Generic3_NA_English": "ae9cf02d83b73f96e81e8d9593ec228f2cabfc25",
+        "MoFarah_Generic4_NA_English": "007b882fa38213223911648f5ad63d8e32ecda18"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "id": "0c22eb510662b728f94a679bd6ab3a9f9912e38d",
+      "type": "audio/m4a",
+      "size": 21874,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/almost_at_goal.m4a",
+      "checksum": "2da1996694e6adf1abf2fc9f8c7aa6bb519116e9"
+    },
+    {
+      "id": "b6bb8f3976ad5d7ccd94110bfe66ac7c97f31b62",
+      "type": "audio/m4a",
+      "size": 33309,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/almost_at_goal_powersong.m4a",
+      "checksum": "4a436891d583f8537db92791af476615e29d58f8"
+    },
+    {
+      "id": "b31c47d0c5c0396c79cbf3ac7c0489f22be8ba1d",
+      "type": "audio/m4a",
+      "size": 9626,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/average_pace.m4a",
+      "checksum": "49e6853cc1be1aceeb3148cf8efa188c9f46a7ae"
+    },
+    {
+      "id": "0b8d66eea83b715627633608b9baf33b1b108162",
+      "type": "audio/m4a",
+      "size": 8441,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/beginning_workout.m4a",
+      "checksum": "38938d322d60c79176e7a91956e49904dfb0d307"
+    },
+    {
+      "id": "0b4079c11e79d2a2e52e62ec4ed8180bbf3de3b8",
+      "type": "audio/m4a",
+      "size": 8436,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/beyond_your_goal.m4a",
+      "checksum": "0b3a2d4261d0a27854a92b44c59ca5c0d9c66f51"
+    },
+    {
+      "id": "958c3591bd37e109808aa61908aaf742bdd04d84",
+      "type": "audio/m4a",
+      "size": 8042,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/calories.m4a",
+      "checksum": "553ff8d267e520dcd164be8de0f0739d79a4f3db"
+    },
+    {
+      "id": "a26adc8b1263809ca04897413fbc7df29763eb8c",
+      "type": "audio/m4a",
+      "size": 6857,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/completed.m4a",
+      "checksum": "95f29edfba9f2335d9ec6b6781e92df935ca7251"
+    },
+    {
+      "id": "6cea5792ef1c67e2d79aefdec40cb54463209921",
+      "type": "audio/m4a",
+      "size": 9387,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/congratulations.m4a",
+      "checksum": "30a220d07691fd84e992dd9ceb9b327083c889fc"
+    },
+    {
+      "id": "e5761ac0b1fcde0aab7d1c680160080a65ecbc98",
+      "type": "audio/m4a",
+      "size": 9224,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/current_pace.m4a",
+      "checksum": "a370e24e1d08c153b71110d93a5952918ca5a208"
+    },
+    {
+      "id": "d5042e68fb32e2cb59b72c7135aca13073fe0ea1",
+      "type": "audio/m4a",
+      "size": 7867,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/distance.m4a",
+      "checksum": "2966295c7f863b0372e32e53355ef9ad9328aee8"
+    },
+    {
+      "id": "3548a2dd5f8a51818b550b3196c46778338e2061",
+      "type": "audio/m4a",
+      "size": 11949,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/distance_goal_reached.m4a",
+      "checksum": "b20cc055e4d0b30e9be7e589f03cba989feeef96"
+    },
+    {
+      "id": "ba77533039d1e1f6a69416b009abf1d33c013c5c",
+      "type": "audio/m4a",
+      "size": 5786,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/eight.m4a",
+      "checksum": "4be08270672100c2107a453647dc74d71ea20d0d"
+    },
+    {
+      "id": "9b2e2d8ea9811082f9ae535db8f85b0d95ae43ee",
+      "type": "audio/m4a",
+      "size": 7034,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/eighteen.m4a",
+      "checksum": "8f8dbc46c5eeec9b8b8fe18af6461523ef0dfe88"
+    },
+    {
+      "id": "877bcf16340010756b4f3e3ed62c0de8ca553bf6",
+      "type": "audio/m4a",
+      "size": 5919,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/eighty.m4a",
+      "checksum": "cf2d51b66ce67bc6133d194ccbb8b53a269140f8"
+    },
+    {
+      "id": "29f7a2cdd675459fe010460ec310760c098c3873",
+      "type": "audio/m4a",
+      "size": 6741,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/eleven.m4a",
+      "checksum": "174d0d85cf3a8e7ff6f87fa29f38b6f2278de59d"
+    },
+    {
+      "id": "a0994abc5f5976012e4af12509965c94c01a3e1f",
+      "type": "audio/m4a",
+      "size": 7926,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/fifteen.m4a",
+      "checksum": "715bf472bea0d56bc18e21b31ca28c69672006c0"
+    },
+    {
+      "id": "c902805cd1de2af30a3627f820fa4d543ad3465b",
+      "type": "audio/m4a",
+      "size": 6819,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/fifty.m4a",
+      "checksum": "1511fb80ebec6a51d306f2de2ef4fa20cdf6f23f"
+    },
+    {
+      "id": "84d8e8e28805a0177062f1c52b0ace359c86f30b",
+      "type": "audio/m4a",
+      "size": 7178,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/five.m4a",
+      "checksum": "ab4ffc4d6c575abf094c05f59694807029245602"
+    },
+    {
+      "id": "b418fab6dec74afc1da700bf2034f6ba180f9f09",
+      "type": "audio/m4a",
+      "size": 7187,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/forty.m4a",
+      "checksum": "6e6ce207482f46a8e0c8434086ee003cb5810e32"
+    },
+    {
+      "id": "f2d565bec055033bb1acff96dcf6039c965cdc90",
+      "type": "audio/m4a",
+      "size": 6940,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/four.m4a",
+      "checksum": "a1910169cbd6566dc1b994b72db5b25b668eba94"
+    },
+    {
+      "id": "036311c5debb678a70f3e3c3d161eac284ff8212",
+      "type": "audio/m4a",
+      "size": 7824,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/fourteen.m4a",
+      "checksum": "8076bbc2d26eae21f6a31f1fea35ae52d51316dc"
+    },
+    {
+      "id": "f02f7bc740e79b3c88e521c35172e80a7e0d6d49",
+      "type": "audio/m4a",
+      "size": 25858,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/getting_close_distance_record.m4a",
+      "checksum": "2e238cd55b913546846b33ae4e19026b093cc911"
+    },
+    {
+      "id": "645b9d3ee2d64d032a789648e298d56b4f1d1ece",
+      "type": "audio/m4a",
+      "size": 40407,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/getting_close_distance_record_powersong.m4a",
+      "checksum": "67aa6f84567769b3e8be678871200731316faace"
+    },
+    {
+      "id": "7420923fada1438f9c6d3913bc32d9bd86e93c9d",
+      "type": "audio/m4a",
+      "size": 25844,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/getting_close_time_record.m4a",
+      "checksum": "aabc28809b8c36dfeec34cfa365d1c7d03edef43"
+    },
+    {
+      "id": "4c93dcfe07f361d6b7c52e74bdc8102069d067b9",
+      "type": "audio/m4a",
+      "size": 39961,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/getting_close_time_record_powersong.m4a",
+      "checksum": "a34cfe11465cd3cb3e6ca4967e2f9f722303290b"
+    },
+    {
+      "id": "f1b0016dbff36374f6a0999ddc240944b44a0a63",
+      "type": "audio/m4a",
+      "size": 8540,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/halfway_point.m4a",
+      "checksum": "e56f7b7244dfe2e8a7c243e82e827ef09e63391e"
+    },
+    {
+      "id": "3b667d062b3e66a9f29ec7d0a5a084b209ecdade",
+      "type": "audio/m4a",
+      "size": 6410,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/hour.m4a",
+      "checksum": "abee8a00a4c489c8347e321a09a0b6ec33f127e9"
+    },
+    {
+      "id": "7d2e8db713212386270bd61d274dd837fb358e4c",
+      "type": "audio/m4a",
+      "size": 7532,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/hours.m4a",
+      "checksum": "1fec727f47e4066de8b8d659d11f3f26574f0588"
+    },
+    {
+      "id": "763ccfc8082909036e4c8326ec2b50a57ba05577",
+      "type": "audio/m4a",
+      "size": 6048,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/hundred.m4a",
+      "checksum": "eac5198368a5d08e7765ef959cbb750f66243bda"
+    },
+    {
+      "id": "a4a8e2426f8842d683e7372a7449437a988ebf83",
+      "type": "audio/m4a",
+      "size": 6909,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/kilometer.m4a",
+      "checksum": "c2d3f0670b0249c445df09dc53f1109aeab78fa1"
+    },
+    {
+      "id": "4b5e242ffe271edc004b1915f952f209629d2906",
+      "type": "audio/m4a",
+      "size": 7834,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/kilometers.m4a",
+      "checksum": "98037b024349f60ddcfd15232eae23f9c62526a8"
+    },
+    {
+      "id": "9c4f528fc3719e410b0c78d036b25481b488c69d",
+      "type": "audio/m4a",
+      "size": 11107,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/kilometers_beyond_your_goal.m4a",
+      "checksum": "5640d7fce20210b286f32892b9b05a2645199554"
+    },
+    {
+      "id": "5bcce179d6a7b8f40706a947193ac3310d3ae62d",
+      "type": "audio/m4a",
+      "size": 10030,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/kilometers_completed.m4a",
+      "checksum": "7003a0f1a585544ae93b4bdeca7f18aff696aeac"
+    },
+    {
+      "id": "9fca0ebaef21f9eab4a51282c144e00718d7bd54",
+      "type": "audio/m4a",
+      "size": 9213,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/kilometers_to_go.m4a",
+      "checksum": "60b045562f39188dab6b6f10c23287bcabbdb314"
+    },
+    {
+      "id": "a61d66ee41936f5193b83a36282d425489112de2",
+      "type": "audio/m4a",
+      "size": 7026,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/meter.m4a",
+      "checksum": "95b01f81e3161af54a5437bf0027bb4640640dd1"
+    },
+    {
+      "id": "4b43f986369d222ab2ac902d066b6115c14c91dd",
+      "type": "audio/m4a",
+      "size": 7564,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/meters.m4a",
+      "checksum": "1af3bf9c2559fba785013505ef8b3dec0be71d23"
+    },
+    {
+      "id": "3946f97ebfd3b3f11da7dd038b3e5d4035fc56b6",
+      "type": "audio/m4a",
+      "size": 7142,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/mile.m4a",
+      "checksum": "ade306074cb87e9d43b297edb4f377379578408e"
+    },
+    {
+      "id": "7a96d22ac9562494f8a95086b16b863ef6b9d8b2",
+      "type": "audio/m4a",
+      "size": 7590,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/miles.m4a",
+      "checksum": "c48d28450e7433fa3bf4fe53483a8c5443cfd580"
+    },
+    {
+      "id": "e0b0d3b71ad889623356d8593ebc98cd919e6c62",
+      "type": "audio/m4a",
+      "size": 11433,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/miles_beyond_your_goal.m4a",
+      "checksum": "13e19ac5415a03e3401d6f0f052a8bf534a520d6"
+    },
+    {
+      "id": "d55153c635281583f8b1476da596a14b13e29553",
+      "type": "audio/m4a",
+      "size": 9151,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/miles_completed.m4a",
+      "checksum": "82abf7b14654521748afe6e50cc1346a1786a158"
+    },
+    {
+      "id": "cbb9c6eb34c24b1a81cea3d96a77b43e839e9b42",
+      "type": "audio/m4a",
+      "size": 9520,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/miles_to_go.m4a",
+      "checksum": "8ff89207a69965e4843c53270cb83c8abb1ee218"
+    },
+    {
+      "id": "8d0bf717f20a5991c6f5f9ba47a541ffb73a9d26",
+      "type": "audio/m4a",
+      "size": 6969,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/minute.m4a",
+      "checksum": "cf28ac3d0c8a1bfe11e26629ad06dbcee0e647a1"
+    },
+    {
+      "id": "27c1ea3b2870e90798b7eb8d4ee077327ab0eeb6",
+      "type": "audio/m4a",
+      "size": 7504,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/minutes.m4a",
+      "checksum": "2d18835c83c7fc8d163354594fc3c44dfd470a69"
+    },
+    {
+      "id": "322715741260079e5dd9ba9cfc521859af11b925",
+      "type": "audio/m4a",
+      "size": 7126,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/nine.m4a",
+      "checksum": "218fe157493e043b059d0651a7ac5bff84742239"
+    },
+    {
+      "id": "516d7d5252452090b8225cc54c4bb49effe067f2",
+      "type": "audio/m4a",
+      "size": 8299,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/nineteen.m4a",
+      "checksum": "ea2a1b4a79f4d379d9fe84d307531e5aad5fd6b1"
+    },
+    {
+      "id": "3a0ec1c380b6f0e06e63a8dfa16208af51ef5ea1",
+      "type": "audio/m4a",
+      "size": 7521,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/ninety.m4a",
+      "checksum": "a4f88f2ca0f29e490c381c5b86bc104b297f9bba"
+    },
+    {
+      "id": "d1eb714e975f04a089975682ddd74b48f6e8a248",
+      "type": "audio/m4a",
+      "size": 6893,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/one.m4a",
+      "checksum": "a5d8ea0ee388b5a54f3a5ed9bed222ef1ae4e0bb"
+    },
+    {
+      "id": "dcf0204d54fb0d76906085a97b98a4fd4c7e64de",
+      "type": "audio/m4a",
+      "size": 12044,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/one_kilometer_beyond_your_goal.m4a",
+      "checksum": "eccd391ba42e829b1d9953c9c3ca7c6891f9feeb"
+    },
+    {
+      "id": "e58967870ada93d60bb3a4260953f5fb87127b54",
+      "type": "audio/m4a",
+      "size": 10585,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/one_kilometer_completed.m4a",
+      "checksum": "2239fa29ec7b041935843621c441f5b0a77eed17"
+    },
+    {
+      "id": "481a0fc6cf29c356ddfb594c9384e1d4dc7d3fc2",
+      "type": "audio/m4a",
+      "size": 11309,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/one_mile_beyond_your_goal.m4a",
+      "checksum": "5cfecb5458b28884fb4fd32e7bbbdf42ec2f23ef"
+    },
+    {
+      "id": "6a05ffff7996115d7d820c515797a9efc2c24945",
+      "type": "audio/m4a",
+      "size": 6792,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/pace.m4a",
+      "checksum": "19a0ec7bc5e4463391e27e91924b6e098368f11a"
+    },
+    {
+      "id": "54b68daf4292d7d57581de1b956c11ac3d76068d",
+      "type": "audio/m4a",
+      "size": 10360,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/pace_goal_reached.m4a",
+      "checksum": "33933f08a9e051c9b2c5e936398c7d3f40d67237"
+    },
+    {
+      "id": "b23ad10f6120811f4cec14f376c582e99807ecae",
+      "type": "audio/m4a",
+      "size": 9088,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/pausing_workout.m4a",
+      "checksum": "3acd19b50e512060991a61c2f72d76d423006092"
+    },
+    {
+      "id": "80a6662a8f1f78fa5c53b1898980f6f5b1dc335b",
+      "type": "audio/m4a",
+      "size": 5581,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/per.m4a",
+      "checksum": "8e0182c431bc58641cd4004445f5e20a674e68ed"
+    },
+    {
+      "id": "88ed51fd38a5bbb39e4c04e0c27c1e8e284320df",
+      "type": "audio/m4a",
+      "size": 7990,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/per_kilometer.m4a",
+      "checksum": "748ad86ce66f048461bc5d634eb3c0107d7ac4c5"
+    },
+    {
+      "id": "4c58897b6f3398ecca19608082e51c11363d0307",
+      "type": "audio/m4a",
+      "size": 6967,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/per_mile.m4a",
+      "checksum": "91d372f2bf4f6a46ab0c80d0368004435aa71559"
+    },
+    {
+      "id": "12fbe4841b147dc3178888f99e1997bc0762d6a4",
+      "type": "audio/m4a",
+      "size": 5518,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/point.m4a",
+      "checksum": "58ca7cedeef6938e0c591358d7422a8925d31769"
+    },
+    {
+      "id": "6ebd81429b9ef6f4261fd91e86c7f955e90e116c",
+      "type": "audio/m4a",
+      "size": 7333,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/remaining.m4a",
+      "checksum": "924174bbaabe3a8cb39b02973b63f7fe5b4ab9d1"
+    },
+    {
+      "id": "731b4277a248d49ef6491f123ae98c0db8c953d0",
+      "type": "audio/m4a",
+      "size": 9644,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/resuming_workout.m4a",
+      "checksum": "cf1cdece87cb94384d4e85bf648c7056131212b6"
+    },
+    {
+      "id": "a8d4e4b5ae1508da85bf44ba51a1e3d7855d776b",
+      "type": "audio/m4a",
+      "size": 6845,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/second.m4a",
+      "checksum": "7187151b9de6894ac58d32ca5de595677d52710b"
+    },
+    {
+      "id": "8794f11ccbd2b844c3214bfbe7a4840b51185e68",
+      "type": "audio/m4a",
+      "size": 7594,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/seconds.m4a",
+      "checksum": "ff22a1930b2cb4945afb4f93e9e558fcfc5109f4"
+    },
+    {
+      "id": "02eb6e4dcf3ecf0ebacd38a922f44bc4f43faaa7",
+      "type": "audio/m4a",
+      "size": 7486,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/seven.m4a",
+      "checksum": "37c04a48327cb6654ab71a9e9017c80957f5a41d"
+    },
+    {
+      "id": "664c2f95c629934154950e3130e3388eaf5e419d",
+      "type": "audio/m4a",
+      "size": 8112,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/seventeen.m4a",
+      "checksum": "b9df9755acdde66fbbebac4d3746f9b359fc8d4c"
+    },
+    {
+      "id": "faba03ea33cd039cb86e68dcbd35c2fe7fbe9813",
+      "type": "audio/m4a",
+      "size": 7455,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/seventy.m4a",
+      "checksum": "a98f3d9f130851c7741bf9ce072627ee83c3c7eb"
+    },
+    {
+      "id": "c85eb3746f0798e75eec3ac70dc624b67e816464",
+      "type": "audio/m4a",
+      "size": 7369,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/six.m4a",
+      "checksum": "215e965acf2fa6d82b7480be04248d419ba9bb57"
+    },
+    {
+      "id": "f2b4b81c608e6bc5acf43367dc812802dfacc359",
+      "type": "audio/m4a",
+      "size": 8334,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/sixteen.m4a",
+      "checksum": "7d305aa3fa5b48538b436cbfc036bc6acf83c7f1"
+    },
+    {
+      "id": "6ac6ff7c9d4376f28fb8691e187e1add969afa7e",
+      "type": "audio/m4a",
+      "size": 7232,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/sixty.m4a",
+      "checksum": "7845f0944866580d349ab40d5287272334eebd22"
+    },
+    {
+      "id": "b83b6bfa00930dedbca42df7ea583e9fd76394ff",
+      "type": "audio/m4a",
+      "size": 6098,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/ten.m4a",
+      "checksum": "434486c5c7c7f7216bd65c75cf90831d7e03ab12"
+    },
+    {
+      "id": "d0c0d6a9775dbaaa7d7a23c15401c135c2a7a8ce",
+      "type": "audio/m4a",
+      "size": 7242,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/thirteen.m4a",
+      "checksum": "597bac1e9906e880410dcb27f52d17a9b1f71984"
+    },
+    {
+      "id": "056a4a4c0a5b910b1b7bf7015eebc880a8e33232",
+      "type": "audio/m4a",
+      "size": 6424,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/thirty.m4a",
+      "checksum": "09d4e648ac122b245fbbdf92377f8258d3f1c0f2"
+    },
+    {
+      "id": "3eb21a854a1ca25defc51ea1894392f6ce15ddc0",
+      "type": "audio/m4a",
+      "size": 7147,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/thousand.m4a",
+      "checksum": "c0dd4f912955ec88067c88616e0acfda51a95392"
+    },
+    {
+      "id": "0c561c0b39c7a4c33231807a5c70f3a9fa4ce0b9",
+      "type": "audio/m4a",
+      "size": 7459,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/three.m4a",
+      "checksum": "1736c4ce0f10f01657431cc69ca794787dc9f442"
+    },
+    {
+      "id": "76cad74313e484b2c02117ccff4858dca5ee2ea5",
+      "type": "audio/m4a",
+      "size": 6416,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/time.m4a",
+      "checksum": "cd05462d4160eef57f03c6aa6aa1af11dde54ff0"
+    },
+    {
+      "id": "6d6594ccbc0d8cb160ab679f8ae76ec8a3dad169",
+      "type": "audio/m4a",
+      "size": 9629,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/time_goal_reached.m4a",
+      "checksum": "3ed6a82d1a83bdb7ba3f88d842e344aeb8b83016"
+    },
+    {
+      "id": "656d81a188e7fd69c93a2177de3694dfa9a7e154",
+      "type": "audio/m4a",
+      "size": 6292,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/to_go.m4a",
+      "checksum": "4680b52d08db976308342755333a6bbf1272e864"
+    },
+    {
+      "id": "7f5d640fbab3c2a3d47c77eb2e5437aa5516c652",
+      "type": "audio/m4a",
+      "size": 8836,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/to_reach_your_goal.m4a",
+      "checksum": "efecbf23e0f061db6c23de80bfb9140379c9fb30"
+    },
+    {
+      "id": "695173d0def3ddc52f15f2e1cf8b2a2e52a9857f",
+      "type": "audio/m4a",
+      "size": 6528,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/twelve.m4a",
+      "checksum": "4e79d73103284ff8c57755aff72ab2f35748d3dc"
+    },
+    {
+      "id": "995927d09851aca25d847c84848cfa31c18615d0",
+      "type": "audio/m4a",
+      "size": 6442,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/twenty.m4a",
+      "checksum": "5261bb8b14b642f4ea304ca8ab1d0a4e8ba43cee"
+    },
+    {
+      "id": "bac654746ce5c8bca7429c8842c9ec47ef09e085",
+      "type": "audio/m4a",
+      "size": 5550,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/two.m4a",
+      "checksum": "dfa2de96b736ab629d7bb6c49c7aa0cd55feef60"
+    },
+    {
+      "id": "f9055ce8b51342780884674a9b6e1c7874156938",
+      "type": "audio/m4a",
+      "size": 9547,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/two_minutes_remaining.m4a",
+      "checksum": "5a277c5e266077cf7d41baec8fd1405f95fc51b7"
+    },
+    {
+      "id": "eaddf00208d119d59ddd567ee4f152bdcb4f9641",
+      "type": "audio/m4a",
+      "size": 9593,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/workout_completed.m4a",
+      "checksum": "ef053091b3749549f6eface5ddfce6da9cb6b668"
+    },
+    {
+      "id": "989da4388146c4d2b9b054b364cdda18dac0a6b9",
+      "type": "audio/m4a",
+      "size": 8454,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/you_have_run.m4a",
+      "checksum": "d6b39748e77b5571d626527829bff9f775a11220"
+    },
+    {
+      "id": "ab6be6956061bd612847024597439f61b820d3ba",
+      "type": "audio/m4a",
+      "size": 10041,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/youve_reached_your_goal_of.m4a",
+      "checksum": "a7f12e898036e3efd13bc6c05374d64e3f8dc4e3"
+    },
+    {
+      "id": "1bba63cfa42d4932c5885f1c2ce4bab40f44259a",
+      "type": "audio/m4a",
+      "size": 11927,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/youve_reached_your_goal_of_burning.m4a",
+      "checksum": "64e1ef15003bdd6562e55b6534414974bd2d1464"
+    },
+    {
+      "id": "43711f84cb9fd5ade792e1f5cb66ae4f390702d1",
+      "type": "audio/m4a",
+      "size": 7498,
+      "url": "file:///android_asset/voices/en/audio/voiceover/male/zero.m4a",
+      "checksum": "d313531a8b93852e1a68738d80ea7919fc23877c"
+    },
+    {
+      "id": "1019742086638ec76ec5b7a0113469cd2974b15b",
+      "type": "audio/m4a",
+      "size": 23182,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/almost_at_goal.m4a",
+      "checksum": "f1bb3e1e2afff8722c09944a0b0dbc31c6c91a75"
+    },
+    {
+      "id": "e99f721406e99d49c9082e33792d7d046eaa26a7",
+      "type": "audio/m4a",
+      "size": 38488,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/almost_at_goal_powersong.m4a",
+      "checksum": "28ccf79d6d44859282ce7e430edf8e73361e069a"
+    },
+    {
+      "id": "9ac52ec153baadba09c80ba326258665157d3160",
+      "type": "audio/m4a",
+      "size": 9189,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/average_pace.m4a",
+      "checksum": "20e023f4b87cd2e4865cb493b72e2cf29cafe530"
+    },
+    {
+      "id": "f84ef9f81d3c93290800cf02b21cb4e3f05de82e",
+      "type": "audio/m4a",
+      "size": 9005,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/beginning_workout.m4a",
+      "checksum": "aacece68f7f01e2d38e8b62e4a0845f98e09031b"
+    },
+    {
+      "id": "0b776f557e3f5525a9084aa6da564a12d01933da",
+      "type": "audio/m4a",
+      "size": 8315,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/beyond_your_goal.m4a",
+      "checksum": "7bc603b019ad698f03f2f7d1af65211d32ffb423"
+    },
+    {
+      "id": "7dcd2f2f67cd6470f774b7bbd89b9151de511156",
+      "type": "audio/m4a",
+      "size": 7370,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/calories.m4a",
+      "checksum": "dd2d6e997e78871ffe5befa85bd69247d6bb50b6"
+    },
+    {
+      "id": "2f33af48fc24eb7592ad1949a293ec8464e853a5",
+      "type": "audio/m4a",
+      "size": 7171,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/completed.m4a",
+      "checksum": "9fd3ec72015b4d0f8ddd6dacff553ff1899cafd6"
+    },
+    {
+      "id": "bfb34d10c2ffa67c33e5be5532cb2ac4e1fc63ca",
+      "type": "audio/m4a",
+      "size": 10386,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/congratulations.m4a",
+      "checksum": "9cf655175af5b8ee1a9defe7fd4ff330b114d516"
+    },
+    {
+      "id": "34c265fee86d08093e9f31ecc90528ebb208e4e8",
+      "type": "audio/m4a",
+      "size": 8257,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/current_pace.m4a",
+      "checksum": "c8f8bca296b19ca8c4136a2de7892491ccedfef7"
+    },
+    {
+      "id": "268a8a1e955da984b39863ba7a189dcd2233770b",
+      "type": "audio/m4a",
+      "size": 7276,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/distance.m4a",
+      "checksum": "66efd5f1e0ebbdeb08937d6682f64c603df0a2c2"
+    },
+    {
+      "id": "273944153b89725c96f1cbe1de29332bd67ea25b",
+      "type": "audio/m4a",
+      "size": 10723,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/distance_goal_reached.m4a",
+      "checksum": "5e02e1a4642f87ed0ff675b9bcd1e369d6321fd5"
+    },
+    {
+      "id": "7357d38b60b4c0831df8e623873be911fd79ca84",
+      "type": "audio/m4a",
+      "size": 5468,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/eight.m4a",
+      "checksum": "faf88bc15dd6052a1223e1186877e3ee49966a72"
+    },
+    {
+      "id": "1e66ce3bb8747eb507adf7adc9e55762f6ad93e4",
+      "type": "audio/m4a",
+      "size": 6860,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/eighteen.m4a",
+      "checksum": "b756bf0803a4305378dc57680a2dfcd69b4d08cd"
+    },
+    {
+      "id": "38932d03d5dd1c7d6a0674f9e9b6abe7ac035e38",
+      "type": "audio/m4a",
+      "size": 6077,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/eighty.m4a",
+      "checksum": "c16c6a9c1ad5b229b1a121f78bb5f1b608bd7e7e"
+    },
+    {
+      "id": "5cad15acc864f8c764e307f71b8e1f2c03bc3420",
+      "type": "audio/m4a",
+      "size": 6730,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/eleven.m4a",
+      "checksum": "d9cb9daa2c90cf8a23c4878903a1c30f5a859ce9"
+    },
+    {
+      "id": "01be642c3255a6c30275baebf6f2c98c71100acf",
+      "type": "audio/m4a",
+      "size": 7630,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/fifteen.m4a",
+      "checksum": "0562164ac66948c84c418361b1dac29399c96f4e"
+    },
+    {
+      "id": "adf88b1e21db2d420cdfbac3be044a0fc1b9e0c8",
+      "type": "audio/m4a",
+      "size": 7647,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/fifty.m4a",
+      "checksum": "3b9036c27cdc15ae2f4c771ae4f64609c6d62985"
+    },
+    {
+      "id": "f46700b261023b04afa10cd784b57a62967742fc",
+      "type": "audio/m4a",
+      "size": 6838,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/five.m4a",
+      "checksum": "414f7df30616a0791b3524f1b5949911199eae9e"
+    },
+    {
+      "id": "173905b5d7b46a1a882fdfbcf8435f5e946b4cbb",
+      "type": "audio/m4a",
+      "size": 6595,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/forty.m4a",
+      "checksum": "abe0be6e3e2e070c55a60db8f3aa09e4b8857440"
+    },
+    {
+      "id": "1ec03c4dda94c6f9de7feb48ff3731ee587fe78a",
+      "type": "audio/m4a",
+      "size": 6384,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/four.m4a",
+      "checksum": "207e168aeab82cf1df3234c5bc511c55ef766335"
+    },
+    {
+      "id": "b823dc67bc01f297b6cd36b11de60210c324a555",
+      "type": "audio/m4a",
+      "size": 7457,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/fourteen.m4a",
+      "checksum": "2e090949794d1f5a3fdd34f53840c155a1566c04"
+    },
+    {
+      "id": "79d529977690b2daf49233dc7953417b244ec26e",
+      "type": "audio/m4a",
+      "size": 29371,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/getting_close_distance_record.m4a",
+      "checksum": "fe1c91f73f35970f29fe5b2ca45ba29d56d72722"
+    },
+    {
+      "id": "1c98e1557558ff0b33cb768f25fc1a8bbd6affef",
+      "type": "audio/m4a",
+      "size": 44606,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/getting_close_distance_record_powersong.m4a",
+      "checksum": "1ad2fce486b884c9d7ea8cc03cb2732d56133a57"
+    },
+    {
+      "id": "d3e0348194153b904bd4e7186934ad972244b68b",
+      "type": "audio/m4a",
+      "size": 29457,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/getting_close_time_record.m4a",
+      "checksum": "d9547555d37a4fedf01c95e8c21ae1d03a43f322"
+    },
+    {
+      "id": "10614c7160d14208ae7bf10d16a3010f99d1c210",
+      "type": "audio/m4a",
+      "size": 47538,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/getting_close_time_record_powersong.m4a",
+      "checksum": "f18627f7e7c237cfbf43105436ed4aa9928a173b"
+    },
+    {
+      "id": "90525a90622f7d9bf7ce8e1e1a52cff6021973c6",
+      "type": "audio/m4a",
+      "size": 8760,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/halfway_point.m4a",
+      "checksum": "d788da08c02bf38c66f5ea649745353d25a42f20"
+    },
+    {
+      "id": "e68dede43c909d1f7888ab6801395e4d505b3869",
+      "type": "audio/m4a",
+      "size": 6479,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/hour.m4a",
+      "checksum": "4f5dcd76b3264192e39fb6bb1b0d12c63f6d2bb1"
+    },
+    {
+      "id": "23c2fa75a974ee16b2408f90970fe65081b734b4",
+      "type": "audio/m4a",
+      "size": 7444,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/hours.m4a",
+      "checksum": "ee2aed3627e6c00e5b1a0905f172f4a827cb0cf7"
+    },
+    {
+      "id": "6d830dc337b408b49240d31481f50566611394b9",
+      "type": "audio/m4a",
+      "size": 7061,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/hundred.m4a",
+      "checksum": "04f01d28a6950de7699f9db0fc69f1866d6ef622"
+    },
+    {
+      "id": "bee176a1cc47512d860b328934d910e3d9884e52",
+      "type": "audio/m4a",
+      "size": 6944,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/kilometer.m4a",
+      "checksum": "7fbc8596b415c4bba39a1b247680785685a3970b"
+    },
+    {
+      "id": "0cfb0b911712162b9b23db80d9ee85df7208f49f",
+      "type": "audio/m4a",
+      "size": 8284,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/kilometers.m4a",
+      "checksum": "80f0cc1076b7d6c3f431b813773c183f7ada8253"
+    },
+    {
+      "id": "2363a7413e0f593410ab75b98fe8bd030a18611e",
+      "type": "audio/m4a",
+      "size": 24839,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/kilometers_beyond_your_goal.m4a",
+      "checksum": "0c762e74a8660412fb6b70b167ecc8df61f85abf"
+    },
+    {
+      "id": "b7c278f6a4fe24b4d412feeeea792bd22b522f5c",
+      "type": "audio/m4a",
+      "size": 9948,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/kilometers_completed.m4a",
+      "checksum": "097dd009ac5fd179a0ab8373dbd5f77b832db763"
+    },
+    {
+      "id": "7be3302e68ccbd235b6f1e2f815f6eca454323e9",
+      "type": "audio/m4a",
+      "size": 17337,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/kilometers_to_go.m4a",
+      "checksum": "7138a6a502fc8396d9223f081e823e50a75c6157"
+    },
+    {
+      "id": "52af227d45a74ecb5aa080c46084adf2420739a6",
+      "type": "audio/m4a",
+      "size": 7303,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/meter.m4a",
+      "checksum": "62608f43fb40e95a708314569e8b43cc4817dfc9"
+    },
+    {
+      "id": "c2cb52eacf646f12036feed2d9473142c920673e",
+      "type": "audio/m4a",
+      "size": 7659,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/meters.m4a",
+      "checksum": "4d38b4d182c1ea44ba10bb3de7ba8a9569698e2f"
+    },
+    {
+      "id": "68bbcd8bb88c5f367bb9fa87ee227443e84e1de6",
+      "type": "audio/m4a",
+      "size": 7345,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/mile.m4a",
+      "checksum": "7180356673d996df2f75b74a56fe4d54bd359beb"
+    },
+    {
+      "id": "93b36d94808affbcee308f79553844199b6142fa",
+      "type": "audio/m4a",
+      "size": 7673,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/miles.m4a",
+      "checksum": "d29ca8ec8d4dbc0d8ecb00a8c22de4aebf934884"
+    },
+    {
+      "id": "3e34f3bdc65b3b1178283d76e87c339b9ed95b5a",
+      "type": "audio/m4a",
+      "size": 10291,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/miles_beyond_your_goal.m4a",
+      "checksum": "198df945cbbdeb32d35616b84abe6ad32c60dbd5"
+    },
+    {
+      "id": "4f9f7faf419d405e4c1038fdeaf3130cd8629d2e",
+      "type": "audio/m4a",
+      "size": 9264,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/miles_completed.m4a",
+      "checksum": "c6f08e274263c0199cfe35d206213645c48df187"
+    },
+    {
+      "id": "ad590b1f6da8a25080e31c94feebea7454b0f114",
+      "type": "audio/m4a",
+      "size": 18838,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/miles_to_go.m4a",
+      "checksum": "cc1f54570739bcf57689607fb31865b0cdc1490b"
+    },
+    {
+      "id": "660e9851ca13e92b26347f8dfda8e84eb68381c6",
+      "type": "audio/m4a",
+      "size": 5980,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/minute.m4a",
+      "checksum": "43212822def7747a5f3930d2c50bec3bcbe9adc1"
+    },
+    {
+      "id": "74a1105e393fb3ce6a7fe4396f46fc77fdada166",
+      "type": "audio/m4a",
+      "size": 7379,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/minutes.m4a",
+      "checksum": "1ff61ead2bd5cf7d195c796644f9b454a79742d0"
+    },
+    {
+      "id": "a4957f2884e66b07467725a91a7eb18c8a2b29a0",
+      "type": "audio/m4a",
+      "size": 7000,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/nine.m4a",
+      "checksum": "d1f36766bd9ed7c9bb89721752b035e5c0bc8a10"
+    },
+    {
+      "id": "e12d43e9711cb4852306af4f5a8e03488ea2afe7",
+      "type": "audio/m4a",
+      "size": 8242,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/nineteen.m4a",
+      "checksum": "41884c44040345b88f533281551d7a77d232d140"
+    },
+    {
+      "id": "158d7c8258ced7c639dc914ad062772c1ad44c49",
+      "type": "audio/m4a",
+      "size": 6796,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/ninety.m4a",
+      "checksum": "556b574dbab931f521fc906399f9f8e38db4c6d7"
+    },
+    {
+      "id": "d95c3677ef827b118f89f4fa7ce31addb5d0932b",
+      "type": "audio/m4a",
+      "size": 6968,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/one.m4a",
+      "checksum": "ce375f76fdc3356db60ea1c1d111e7ec740965c5"
+    },
+    {
+      "id": "5d8e711f3297c1b058a34e80156a919b4bb7c2ea",
+      "type": "audio/m4a",
+      "size": 11729,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/one_kilometer_beyond_your_goal.m4a",
+      "checksum": "5ac3f66419136b4b5c8220aaa16b810433446d3e"
+    },
+    {
+      "id": "9f23a85814ed0595b981277440eb29144be9aa8c",
+      "type": "audio/m4a",
+      "size": 11149,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/one_kilometer_completed.m4a",
+      "checksum": "24d624dafa27b5b1836ad7067e35fc980d65b072"
+    },
+    {
+      "id": "55713fd3113e7733ff167db768f9d1e35f210917",
+      "type": "audio/m4a",
+      "size": 11080,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/one_mile_beyond_your_goal.m4a",
+      "checksum": "6ae529fdeec86a30ec6b3d0b23442257ffbdddbb"
+    },
+    {
+      "id": "61f494b919f5ea8d21a8bc97660cedd87004d105",
+      "type": "audio/m4a",
+      "size": 6743,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/pace.m4a",
+      "checksum": "01492d924fb76c83da180c6b8e69088467e66238"
+    },
+    {
+      "id": "b347b03c41a53057288dad31dc6f187edddef273",
+      "type": "audio/m4a",
+      "size": 10130,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/pace_goal_reached.m4a",
+      "checksum": "d2e8d75a8fafd993cb7cd31e3fed716af7eecf40"
+    },
+    {
+      "id": "753d688762a40251a727016816e200d73e65ef00",
+      "type": "audio/m4a",
+      "size": 8514,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/pausing_workout.m4a",
+      "checksum": "0a3d0c5447b57703e545bd93360539fa2fee9938"
+    },
+    {
+      "id": "e2230b89e3168a1168ebdb64c45c1d51e7d135f9",
+      "type": "audio/m4a",
+      "size": 6020,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/per.m4a",
+      "checksum": "25eb88a7b49543ce88be3fc157716a73d36c24cd"
+    },
+    {
+      "id": "d862832efe981578c18aeec04f8adb3f997665e6",
+      "type": "audio/m4a",
+      "size": 7953,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/per_kilometer.m4a",
+      "checksum": "6d9dd0fe2c736ede5990244e88459c536abeb72d"
+    },
+    {
+      "id": "aa3427a0b9acf16a85947f5f88940779fcf258ef",
+      "type": "audio/m4a",
+      "size": 7090,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/per_mile.m4a",
+      "checksum": "00703780226fadec3468fdd79ddad7201793ae5b"
+    },
+    {
+      "id": "03784754b404d0bf6f7b7bd979f2da11897f86f0",
+      "type": "audio/m4a",
+      "size": 5830,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/point.m4a",
+      "checksum": "3e5cfb2188495f17f977aea62279b5ea1255d8cf"
+    },
+    {
+      "id": "b54e186e844b9298282959be3027038b5f74ebd5",
+      "type": "audio/m4a",
+      "size": 7591,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/remaining.m4a",
+      "checksum": "095e1990fc8fc82447f45de275ba289417348ebd"
+    },
+    {
+      "id": "cd91fc58c8f77f82b98eea82c370411f969356b3",
+      "type": "audio/m4a",
+      "size": 9824,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/resuming_workout.m4a",
+      "checksum": "12e3296f62afc0f9d03a99deac6f451897d997b2"
+    },
+    {
+      "id": "b57fab60f61a1c85d987e77fbd4a3f5008e4dc2d",
+      "type": "audio/m4a",
+      "size": 6557,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/second.m4a",
+      "checksum": "a4b650aa20f841e6f8b212e211883098fe83020f"
+    },
+    {
+      "id": "b5e4d86f418fa0965c060a8cc8b3c1936b82cb87",
+      "type": "audio/m4a",
+      "size": 7807,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/seconds.m4a",
+      "checksum": "b202bf0de9c15040057838fb71ef1a81ba7a0ac1"
+    },
+    {
+      "id": "5a22a436b57d19c04a08aa641114a78082b75637",
+      "type": "audio/m4a",
+      "size": 7022,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/seven.m4a",
+      "checksum": "83543c1cb36a2694318719bb50f0937e0b1d2310"
+    },
+    {
+      "id": "0289bf379461fcd00393b219585768791ec860b6",
+      "type": "audio/m4a",
+      "size": 7713,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/seventeen.m4a",
+      "checksum": "a5556305ec5b489102b74b1c888c6e0a4753cda9"
+    },
+    {
+      "id": "7497ea731152df68dfe712b8f7f6ab174ae963c4",
+      "type": "audio/m4a",
+      "size": 7381,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/seventy.m4a",
+      "checksum": "a3be5fa4d6c18c60ef0b9ce1ae5abcc06190b24e"
+    },
+    {
+      "id": "79eca8b55bf0b06312dca27e79cf2e4d4845875e",
+      "type": "audio/m4a",
+      "size": 7303,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/six.m4a",
+      "checksum": "925cf3829323e876f43f7d09c5c837924a397ea9"
+    },
+    {
+      "id": "7e2e0a693364260173f3e716dd79051a4f8094ec",
+      "type": "audio/m4a",
+      "size": 8307,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/sixteen.m4a",
+      "checksum": "ea0c331623a6c83e5ed05213b1509a7e39b39013"
+    },
+    {
+      "id": "e7610be588fa9bcb34cb874df7b3513b0c0adfee",
+      "type": "audio/m4a",
+      "size": 7275,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/sixty.m4a",
+      "checksum": "de525fe6ad7b8b05ff5167ad5458de90239c2aae"
+    },
+    {
+      "id": "765a16a1082533f57a3e30e78f947764e9065f1b",
+      "type": "audio/m4a",
+      "size": 5872,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/ten.m4a",
+      "checksum": "d70a66f7146a45b23559e56ee86d0258b949e05f"
+    },
+    {
+      "id": "722f9ca6f2ebd6e9dd03ce8a5203a3aa8ca3eab0",
+      "type": "audio/m4a",
+      "size": 7145,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/thirteen.m4a",
+      "checksum": "ed9624ea158ee28dc3540dcbb57aacdb183d6bd8"
+    },
+    {
+      "id": "cd9f4a70bf65af2be255f1afc09b8dab9f319dbe",
+      "type": "audio/m4a",
+      "size": 6822,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/thirty.m4a",
+      "checksum": "229ebb45351c5e4b0fa445e6b8f8f7d5a2300d0c"
+    },
+    {
+      "id": "e38a56b4a39d074f8b67c5acb4a41e7a706ed50a",
+      "type": "audio/m4a",
+      "size": 7182,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/thousand.m4a",
+      "checksum": "d505acc5b5e66e9c73cfa2959d29ed8ce7cecc26"
+    },
+    {
+      "id": "e5bd8cd3aa5d798f8a184cfa459b206ed5dd8b01",
+      "type": "audio/m4a",
+      "size": 5785,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/three.m4a",
+      "checksum": "6e77ffe8b8b60182eb7376253850e982886f77ef"
+    },
+    {
+      "id": "cab2c065c7f02d0d41898003c5fbe51b0e4450d7",
+      "type": "audio/m4a",
+      "size": 6338,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/time.m4a",
+      "checksum": "7288854b444f5c84b50376028f460f1b3d3d356a"
+    },
+    {
+      "id": "61d08d7b19f9b387b271510c32d4a2d9a6fcec45",
+      "type": "audio/m4a",
+      "size": 10430,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/time_goal_reached.m4a",
+      "checksum": "26a96237416bcb835a22c63b0306fa8755b8d9a8"
+    },
+    {
+      "id": "fdc02be90b99c44672728a69f39e33fe65058898",
+      "type": "audio/m4a",
+      "size": 6696,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/to_go.m4a",
+      "checksum": "e774e58dc69039b8531686402a3c1ab02d4d9cf2"
+    },
+    {
+      "id": "dd3e6d55e5b0a40290ce40ec39af6e85bddc11b5",
+      "type": "audio/m4a",
+      "size": 8769,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/to_reach_your_goal.m4a",
+      "checksum": "1f45926b091fc9edc350af0e3ad7288c4d616299"
+    },
+    {
+      "id": "5ca2e67c7b59010497e75d48fb2499b181a2dcd1",
+      "type": "audio/m4a",
+      "size": 6288,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/twelve.m4a",
+      "checksum": "83aab4c2337936105ada323c421cef56261a295e"
+    },
+    {
+      "id": "15461321ccbc20b9398912634bf922abd00f57d0",
+      "type": "audio/m4a",
+      "size": 5871,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/twenty.m4a",
+      "checksum": "7c310dadc364e7c616b0b068217aeaa8b61b4f1f"
+    },
+    {
+      "id": "a81b4d34c86750bc710fda56e4899b35f0c34c20",
+      "type": "audio/m4a",
+      "size": 5785,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/two.m4a",
+      "checksum": "125ad1bcc49287f13de87dc9ffc4c14afef5a1fb"
+    },
+    {
+      "id": "45cd6605e00b96380bdaf0fa9a5463cebc129eb3",
+      "type": "audio/m4a",
+      "size": 9919,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/two_minutes_remaining.m4a",
+      "checksum": "24398d0c76b87f507d64c0410551b1c6cf64e503"
+    },
+    {
+      "id": "d06e3f3e204a1847f184c9b5e32abed754f116bf",
+      "type": "audio/m4a",
+      "size": 9786,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/workout_completed.m4a",
+      "checksum": "a2c1875cf2ce84ae6435200ef170cddd005eb8a6"
+    },
+    {
+      "id": "da87a64a28f7d87c39828f02c9deff970bf0bdee",
+      "type": "audio/m4a",
+      "size": 7334,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/you_have_run.m4a",
+      "checksum": "8b1d2d00a27230cebaf472c8ff6cd6953659fb23"
+    },
+    {
+      "id": "df53ac7d3e74a9f9f9f3967772d0efa9adcaadc2",
+      "type": "audio/m4a",
+      "size": 10902,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/youve_reached_your_goal_of.m4a",
+      "checksum": "b623d68cb83b6f1fb50083fc0e7b7b78edbdbaf4"
+    },
+    {
+      "id": "f89a02e46322123377579a631e4b6d9cea07333a",
+      "type": "audio/m4a",
+      "size": 12345,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/youve_reached_your_goal_of_burning.m4a",
+      "checksum": "a09b62d4b6b2706ca6320cf77a6659679f8612d1"
+    },
+    {
+      "id": "4664c72944fc17688427fb66db09a293cfe813bf",
+      "type": "audio/m4a",
+      "size": 6798,
+      "url": "file:///android_asset/voices/en/audio/voiceover/female/zero.m4a",
+      "checksum": "189f3752ff810bbe3a79f66242eb26bdb1d9e271"
+    },
+    {
+      "id": "ed89ed20f85457c273a731ede6392576d26616e4",
+      "type": "audio/m4a",
+      "size": 27632,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/BM1.m4a",
+      "checksum": "9b1cf8d91577167abc0b77a28883a8f07223747c"
+    },
+    {
+      "id": "f05ebed2d138204a156452d1fd10b290d412dc9e",
+      "type": "audio/m4a",
+      "size": 33260,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/BM2.m4a",
+      "checksum": "6be28fb4a3192f12555f47dc4cf67f4f9d838001"
+    },
+    {
+      "id": "9591fbdc80ad8c4d30c9e1a4fcad2cc60a62ac32",
+      "type": "audio/m4a",
+      "size": 111227,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/BM3.m4a",
+      "checksum": "05467f50cc814ce885321e7a81ad1a74ac2728b4"
+    },
+    {
+      "id": "83fd8f7660b6c3b166b9b0adefca51a7cedbe1c0",
+      "type": "audio/m4a",
+      "size": 58838,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/BM4.m4a",
+      "checksum": "336e54223f61ba1959f5f6bafe37160fecea346f"
+    },
+    {
+      "id": "319f4fa797399b806352bbea85692be40d21eaa8",
+      "type": "audio/m4a",
+      "size": 18370,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/BM5.m4a",
+      "checksum": "5cbb22c9a35b3736e4d1d995a796acd32ce609c4"
+    },
+    {
+      "id": "3293ccd958b7aa6aee3eefe156da5311deb102ea",
+      "type": "audio/m4a",
+      "size": 71776,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/BM6.m4a",
+      "checksum": "723a9de50d5ed4874f606cf008152b2d00c5f0e2"
+    },
+    {
+      "id": "9e0d8850bbc42cee54aad2145ccc14b3bdddc28d",
+      "type": "audio/m4a",
+      "size": 88240,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/BM7.m4a",
+      "checksum": "8b69ec955945a996f2d73c5843d492b8aad3208a"
+    },
+    {
+      "id": "7c9e9984d9c9479328a36e513e645dd3ca28ee3f",
+      "type": "audio/m4a",
+      "size": 15800,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD0.m4a",
+      "checksum": "fe13a3826ed3a77bf1242397a60fa4b504b2aead"
+    },
+    {
+      "id": "f4c1a08d0e6bd1b7d8c30dc6c6c9facd2db4f4f4",
+      "type": "audio/m4a",
+      "size": 42923,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD1.m4a",
+      "checksum": "eaf812ff8c43b0060a38ff55dccc4787bc7987c6"
+    },
+    {
+      "id": "336926d79ad938a1d650c2b9e0f7675ce34b06ed",
+      "type": "audio/m4a",
+      "size": 36314,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD2.m4a",
+      "checksum": "856934ef58122d4b76abc9adf9ba398311ec14ee"
+    },
+    {
+      "id": "3c9f81aa6e4111690bcd87c0d49fdcd863f70f77",
+      "type": "audio/m4a",
+      "size": 115203,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD3.m4a",
+      "checksum": "a7738795f2934fb5fd2ef3086974752d7ba7ee37"
+    },
+    {
+      "id": "1b97eb3f49267d871a9e755cd410bc33eb79349c",
+      "type": "audio/m4a",
+      "size": 48068,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD4.m4a",
+      "checksum": "b8c3bdab8a041323398938d29964c355f22f1235"
+    },
+    {
+      "id": "358c803ff3eb44a8be08d3e611b1e2aa40e0f7e9",
+      "type": "audio/m4a",
+      "size": 102248,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD5.m4a",
+      "checksum": "1e63c28669b6728e6da9cb0c7060508578c70383"
+    },
+    {
+      "id": "bf5f80a1eda90d509b180edd04bf9ec0945b5f04",
+      "type": "audio/m4a",
+      "size": 54249,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD6.m4a",
+      "checksum": "4c89312b4226991b249574c0d83763bba1a35669"
+    },
+    {
+      "id": "a7ca832acb25818fb5632f66de4e5e5cd91f075d",
+      "type": "audio/m4a",
+      "size": 104476,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD7.m4a",
+      "checksum": "179bf34e15f430e28309f0b7963a84bdea6b8d7a"
+    },
+    {
+      "id": "41ebb21f0c7c38052855fd7d2ea982d248d3d408",
+      "type": "audio/m4a",
+      "size": 76366,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/CD8.m4a",
+      "checksum": "b20af7992c3af99194db9a37a39637947cf9ca7b"
+    },
+    {
+      "id": "dfdac8c9b7219ac3eb5027afc4a163a589cde856",
+      "type": "audio/m4a",
+      "size": 28900,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis05coach1.m4a",
+      "checksum": "c28f2f2c02ae473ccef962067a02c7df8c9bac6f"
+    },
+    {
+      "id": "899c364d6e248c4bde7478f5dc303c1db02e35f9",
+      "type": "audio/m4a",
+      "size": 27059,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis05coach2.m4a",
+      "checksum": "32e245c27be0e7d00821b77e491fa5329424eb2d"
+    },
+    {
+      "id": "f5dcdb780bd162f68bf5936e13152e78f369a5dc",
+      "type": "audio/m4a",
+      "size": 31005,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis05pacer.m4a",
+      "checksum": "99301d50bccda563e085f10086d1bfe1f1977ca8"
+    },
+    {
+      "id": "1c41356f70d108f7677070cccd9ae70be9885844",
+      "type": "audio/m4a",
+      "size": 25232,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis25coach1.m4a",
+      "checksum": "0e29404b9c7bb237abfadd70088c96b26d33bc6a"
+    },
+    {
+      "id": "ec3f8b58dd6a078fc8d031592a4ea560e9b0b242",
+      "type": "audio/m4a",
+      "size": 51278,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis25coach2.m4a",
+      "checksum": "40777c6ffe4bea765df73774d9abacb20a38aa69"
+    },
+    {
+      "id": "5fed65952026cc1b22bb7184a8f41534655e4e86",
+      "type": "audio/m4a",
+      "size": 41692,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis25pacer.m4a",
+      "checksum": "fa8f937cacf75251c275f569efc26a0f14bf4aec"
+    },
+    {
+      "id": "1752737cff9ed39df5827f36decf57b203decf39",
+      "type": "audio/m4a",
+      "size": 28258,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis45coach1.m4a",
+      "checksum": "47f179b402381bd44436e6d2a373db564e919e31"
+    },
+    {
+      "id": "1333fb97803832a3037b19077a91199639af2004",
+      "type": "audio/m4a",
+      "size": 26473,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis45coach2.m4a",
+      "checksum": "1380dec3f1ab5ab686667a4e4f95fec19815ecf1"
+    },
+    {
+      "id": "c6946319456e3017372d4846602e266f83b2bdf1",
+      "type": "audio/m4a",
+      "size": 34557,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis45pacer.m4a",
+      "checksum": "081bc7ca7cb2931b652fd5af0fa6cbe9deb129f7"
+    },
+    {
+      "id": "2c4925c3c04f1b1546ee170d75382501edec5b2d",
+      "type": "audio/m4a",
+      "size": 35526,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis50coach1.m4a",
+      "checksum": "294d1f1a6f0c8b3d80d8f05f58728e261088af32"
+    },
+    {
+      "id": "2afcc33398c72fd3c978285d6e95c89544f906c9",
+      "type": "audio/m4a",
+      "size": 26816,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis50coach2.m4a",
+      "checksum": "cc6c86c345c52eb275e34c2579ed30d0a6ae93f1"
+    },
+    {
+      "id": "392fa3906261ca1700f4933cb04b3254a2fcc065",
+      "type": "audio/m4a",
+      "size": 51047,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis50pacer.m4a",
+      "checksum": "25826848804407cb37f09ea6f311b6a74b9e7e46"
+    },
+    {
+      "id": "f6c076e5dbee8198c04d041931546ae9309081e4",
+      "type": "audio/m4a",
+      "size": 22676,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis65coach1.m4a",
+      "checksum": "f4a2eea1bb2955646aa4ccf3b238756dc244c9c9"
+    },
+    {
+      "id": "c1f5315044892f3b2f5b158b9807288f380b21d7",
+      "type": "audio/m4a",
+      "size": 37188,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis65coach2.m4a",
+      "checksum": "59061be6b20704fa4ceca4e4da1bfa8d53714c6e"
+    },
+    {
+      "id": "6af9006a5a0d24d1fa780b517e91786dff5d2956",
+      "type": "audio/m4a",
+      "size": 51853,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/guidedruns/jdis65pacer.m4a",
+      "checksum": "41229786360167f8995bb00fc9fb9e10475829f5"
+    },
+    {
+      "id": "438ade9a5282232d05fb9f45cefab4e248db9594",
+      "type": "audio/m4a",
+      "size": 101659,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/Warmup1.m4a",
+      "checksum": "32b50e22c1df88b7877bdb2fd1efa4f25bf4644c"
+    },
+    {
+      "id": "8e41826742a5dd30b3b7a5fd3d5a79dc2bd91c56",
+      "type": "audio/m4a",
+      "size": 48404,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp2.m4a",
+      "checksum": "1e6c72aebe56c08c23209f23a3ca54300cbcb5e0"
+    },
+    {
+      "id": "bf3d5898ff1803efba59abd731df0e0f6888011e",
+      "type": "audio/m4a",
+      "size": 89313,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp3.m4a",
+      "checksum": "b2c937ed9d35593a529dced1501f871c9107dafa"
+    },
+    {
+      "id": "95287fbf71ffadf929364d6926120994af81089e",
+      "type": "audio/m4a",
+      "size": 110372,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp4.m4a",
+      "checksum": "82e1a5bdf869225950127bd60997c22d47b088d1"
+    },
+    {
+      "id": "e86262f67b2ba90831373c772c31e98b58e237c7",
+      "type": "audio/m4a",
+      "size": 114464,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp5.m4a",
+      "checksum": "efc1f5d98aa229b398362f20a65ea79d2ad51116"
+    },
+    {
+      "id": "819fb35a2eff00bc4e61a7dc46e7e78333e70745",
+      "type": "audio/m4a",
+      "size": 92118,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp6.m4a",
+      "checksum": "89760249966d1a05c8e1c8b96d0e579d3821fe67"
+    },
+    {
+      "id": "2ce60077687b704bb818fd642cd693cfcac5d92f",
+      "type": "audio/m4a",
+      "size": 52329,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp7.m4a",
+      "checksum": "df14befc712cae38cce14fd1cac65e12f738aa66"
+    },
+    {
+      "id": "37ef97ea0d624235a2d3afe33f8318007ca06692",
+      "type": "audio/m4a",
+      "size": 22820,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp8.m4a",
+      "checksum": "a90541a5b3cbca1d3503b6ee6dd494b8ba96e834"
+    },
+    {
+      "id": "dc1a64b8b56a55c4d203cf62527482b946d5ca69",
+      "type": "audio/m4a",
+      "size": 98059,
+      "url": "file:///android_asset/voices/en/audio/guidedruns/WarmUp9.m4a",
+      "checksum": "06028efb31e727aac9bf9e45f872178499f19d98"
+    },
+    {
+      "id": "0540f90e51c7a2e49d870c56051a00d0614889fd",
+      "type": "audio/m4a",
+      "size": 175136,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/encouragements/CoachBennett_Generic1_NA_English.m4a",
+      "checksum": "d63815ed659b4d43206939c1e782d8b787e2ea51"
+    },
+    {
+      "id": "73e1fea0ac2210c89dd1f66e28a793c5c21d28ee",
+      "type": "audio/m4a",
+      "size": 201370,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/encouragements/CoachBennett_Generic2_NA_English.m4a",
+      "checksum": "406fbc3776fb1acadc294021f779341f22c0e83a"
+    },
+    {
+      "id": "b03f1d87136132d1b5be6ccd768fd1b956ec5a45",
+      "type": "audio/m4a",
+      "size": 199158,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/encouragements/CoachBennett_Generic3_NA_English.m4a",
+      "checksum": "207f99f4a9f0e0d733c8fe2c2a3f0a0af8fb9099"
+    },
+    {
+      "id": "b13fb38c0a6195ef689a3167e6d2d2c3bd248931",
+      "type": "audio/m4a",
+      "size": 93914,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/encouragements/MoFarah_Generic1_NA_English.m4a",
+      "checksum": "9ddabbb3f0c22a6189f9cc49b69a6be7c9fc6175"
+    },
+    {
+      "id": "c189dfd442113ca71f76cdfe4c94c354d49c7ea8",
+      "type": "audio/m4a",
+      "size": 101031,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/encouragements/MoFarah_Generic2_NA_English.m4a",
+      "checksum": "6bba364792a9cd37b5bac667989576b4baa60356"
+    },
+    {
+      "id": "ae9cf02d83b73f96e81e8d9593ec228f2cabfc25",
+      "type": "audio/m4a",
+      "size": 94061,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/encouragements/MoFarah_Generic3_NA_English.m4a",
+      "checksum": "90b74d9007ab601cf00b96a7478d5e02617856f2"
+    },
+    {
+      "id": "007b882fa38213223911648f5ad63d8e32ecda18",
+      "type": "audio/m4a",
+      "size": 141354,
+      "url": "https://dlc.nike.com/nrc/android/cortez/voiceover/en/audio/encouragements/MoFarah_Generic4_NA_English.m4a",
+      "checksum": "90986adf92e60ce4a6112842ea6028b1b5347cab"
+    }
+  ]
+}
