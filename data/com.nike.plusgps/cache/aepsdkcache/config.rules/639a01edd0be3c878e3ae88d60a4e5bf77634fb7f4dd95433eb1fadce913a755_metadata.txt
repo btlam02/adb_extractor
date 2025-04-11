@@ -1,1 +1,0 @@
-{"ETag":"\"8c8e073dc9c2d06186f49bfea0f1e1f6:1663258606.665127\"","pathToFile":"\/data\/user\/0\/com.nike.plusgps\/cache\/aepsdkcache\/config.rules\/639a01edd0be3c878e3ae88d60a4e5bf77634fb7f4dd95433eb1fadce913a755","Last-Modified":"1663258606000"}

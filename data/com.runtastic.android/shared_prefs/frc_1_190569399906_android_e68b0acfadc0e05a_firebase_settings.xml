@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="fetch_timeout_in_seconds" value="60" />
+    <long name="last_template_version" value="1070" />
+    <int name="last_fetch_status" value="-1" />
+    <long name="minimum_fetch_interval_in_seconds" value="3600" />
+    <string name="last_fetch_etag">etag-190569399906-firebase-fetch--767624231</string>
+    <long name="backoff_end_time_in_millis" value="-1" />
+    <long name="last_fetch_time_in_millis" value="1744353467633" />
+    <int name="num_failed_fetches" value="0" />
+</map>

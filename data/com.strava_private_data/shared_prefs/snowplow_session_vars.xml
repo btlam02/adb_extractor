@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <int name="sessionIndex" value="13" />
-    <string name="storageMechanism">LOCAL_STORAGE</string>
-    <string name="firstEventId">5be34413-a285-4730-8fda-4b2cfb83fa9a</string>
-    <string name="sessionId">d7ea1c5c-af1c-4c8c-979c-f4a6674d79fb</string>
-    <string name="previousSessionId">f9119474-bff3-44bc-8b9a-a7bebf48b429</string>
-    <string name="userId">5c2b8c7e-f778-4e1b-a49a-748d8e0b312e</string>
-</map>

@@ -1,0 +1,19 @@
+1744353582524
+1744353582558
+1
+15
+content-type: image/png
+etag: "45f9b7d0ee6f26ffde2f3262de924a51"
+last-modified: Thu, 13 Feb 2025 14:23:14 GMT
+date: Fri, 11 Apr 2025 06:39:42 GMT
+strict-transport-security: max-age=604800
+cache-control: public, no-transform, immutable, max-age=2592000
+server-timing: cld-fastly;dur=3;cpu=1;start=2025-04-11T06:39:42.010Z;desc=hit,rtt;dur=28,content-info;desc="width=1080,height=1350,bytes=499923,format=\"png\",owidth=1080,oheight=1350,obytes=1490107,oformat=\"png\",crt=1739456593,ocrt=1739456590,ef=(1,13,17,97)"
+server: Cloudinary
+timing-allow-origin: *
+access-control-allow-origin: *
+accept-ranges: bytes
+x-content-type-options: nosniff
+access-control-expose-headers: Content-Length,ETag,Server-Timing,X-Content-Type-Options
+x-request-id: 42336a87fde3c6985060cc5ee03d91b7
+content-length: 499923

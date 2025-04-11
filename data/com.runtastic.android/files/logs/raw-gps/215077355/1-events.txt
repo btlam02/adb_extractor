@@ -1,0 +1,110 @@
+11/04/2025 13:59:18 (1744354758361): SessionServiceItem: StartSessionEvent: StartSessionEvent{useTimeAsRunTime=false, isLiveTracking=false, sportTypeId=19, isIndoorSession=false, recoverySessionId=-1, isSilentRecovery=false}
+11/04/2025 13:59:18 (1744354758361): GpsStatus on session start: Red
+11/04/2025 13:59:18 (1744354758361): SessionServiceItem: SessionStartedEvent: SessionStartedEvent{isLiveSession=false, sportTypeId=19, isIndoorSession=false, isRecovery=false, isSilentRecovery=false}
+11/04/2025 13:59:18 (1744354758369): SensorManager.resetSensorsAndControllers
+11/04/2025 13:59:18 (1744354758369): SensorManager.connectSensors: SESSION_START
+11/04/2025 13:59:18 (1744354758369): SensorManager: connecting STEP/STEP
+11/04/2025 13:59:18 (1744354758514): DEVICE STATE:
+ Runtastic
+  Auto Pause enabled: false
+  Voice Feedback enabled: true
+ DisplayManager
+  display state: STATE_ON (Màn hình tích hợp)
+ PowerManager
+  isScreenOn: true
+  isInteractive: true
+  isPowerSaveMode: false
+  isIgnoringBatteryOptimizations: false
+  isDeviceIdleMode: false
+  locationPowerSaveMode: LOCATION_MODE_NO_CHANGE
+ ActivityManager
+  lockTaskModeState: LOCK_TASK_MODE_NONE
+  isBackgroundRestricted: false
+ LocationManager
+  isGpsProviderEnabled: false
+  isNetworkProviderEnabled: true
+  isPassiveProviderEnabled: true
+  isLocationEnabled: true
+  isAirplaneModeOn: false
+ BatteryManager
+  Battery percentage: 87.0%
+11/04/2025 13:59:18 (1744354758551): ServiceHelper.onStart by class com.runtastic.android.modules.mainscreen.view.MainActivity
+11/04/2025 13:59:18 (1744354758862): ServiceHelper.onStop by class com.runtastic.android.modules.mainscreen.countdown.view.CountdownActivity
+11/04/2025 13:59:18 (1744354758862): ServiceHelper.onStop unbinding service
+11/04/2025 13:59:35 (1744354775495): SessionServiceItem: RCStopEvent RCStopEvent(skipAdditionalInfos=false, discardSession=false, source=ActivityTabFragment)
+11/04/2025 13:59:35 (1744354775495): SensorManager.flushRemainingSensorValues
+11/04/2025 13:59:35 (1744354775495): SessionServiceItem: StopSessionEvent: discard=false
+11/04/2025 13:59:35 (1744354775509): SensorManager.disconnectSensors: SESSION_START
+11/04/2025 13:59:35 (1744354775509): SensorManager: disconnect STEP/STEP
+11/04/2025 13:59:35 (1744354775509): SensorManager.disconnectSensors: SESSION_START_FIRST_POSITION
+11/04/2025 13:59:35 (1744354775765): GpsQualityReporter:
+11/04/2025 13:59:35 (1744354775765):   filtered points: 0
+11/04/2025 13:59:35 (1744354775765):   rt_run_session_no_gps_raw_points_0s_10s: 0
+11/04/2025 13:59:35 (1744354775765):   rt_run_session_no_gps_valid_points_0s_10s: 0
+11/04/2025 13:59:35 (1744354775765):   rt_run_session_no_gps_valid_points_OOR: 0
+11/04/2025 13:59:35 (1744354775765):   rt_run_session_battery_saver_mode_on: false
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_in_battery_saver_mode: false
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_battery_saver_mode_on_after_session: false
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_in_battery_saver_mode_after_session: false
+11/04/2025 13:59:35 (1744354775767):   rt_android_run_session_gps_filtered_points_altitude: 0
+11/04/2025 13:59:35 (1744354775767):   rt_android_run_session_gps_filtered_points_gps_negative_delta_time: 0
+11/04/2025 13:59:35 (1744354775767):   rt_android_run_session_gps_filtered_points_gps_no_altitude: 0
+11/04/2025 13:59:35 (1744354775767):   rt_android_run_session_gps_filtered_points_gps_zero_zero_bug: 0
+11/04/2025 13:59:35 (1744354775767):   rt_android_run_session_gps_filtered_points_same_location: 0
+11/04/2025 13:59:35 (1744354775767):   rt_android_run_session_total_gps_speed_filtered_points: 0
+11/04/2025 13:59:35 (1744354775767):   rt_gps_session_invalid_points_duration_ratio: 0.0
+11/04/2025 13:59:35 (1744354775767):   rt_gps_session_valid_points_duration_ratio: 0.0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_accuracy_at_session_start: -1.0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_did_receive_good_gps_accuracy: false
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_distance: 0.0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_duration: 17000
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_accuracy_horizontal_0m_1m: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_accuracy_horizontal_100m: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_accuracy_horizontal_10m_30m: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_accuracy_horizontal_1m_10m: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_accuracy_horizontal_30m_50m: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_gps_accuracy_horizontal_50m_100m: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_raw_points_10min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_raw_points_10s_30s: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_raw_points_2min_5min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_raw_points_30s_2min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_raw_points_5min_10min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_valid_points_10min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_valid_points_10s_30s: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_valid_points_2min_5min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_valid_points_30s_2min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_no_gps_valid_points_5min_10min: 0
+11/04/2025 13:59:35 (1744354775767):   rt_run_session_points_valid_gps_points: 0
+11/04/2025 13:59:35 (1744354775768):   rt_run_session_resumed: false
+11/04/2025 13:59:35 (1744354775768):   rt_run_session_sport_type: 19
+11/04/2025 13:59:35 (1744354775768):   rt_run_session_total_gps_acceleration_filtered_points: 0
+11/04/2025 13:59:35 (1744354775768):   rt_run_session_total_gps_raw_points: 0
+11/04/2025 13:59:35 (1744354775768): Final activity values:
+ Distance: 0,00 km (0)
+ Duration: 00:00:17 (17000)
+11/04/2025 13:59:35 (1744354775768): SessionServiceItem: SessionCompletedEvent
+11/04/2025 13:59:35 (1744354775768): ServiceHelper.stopForegroundServices
+11/04/2025 13:59:35 (1744354775890): DEVICE STATE:
+ Runtastic
+  Auto Pause enabled: false
+  Voice Feedback enabled: true
+ DisplayManager
+  display state: STATE_ON (Màn hình tích hợp)
+ PowerManager
+  isScreenOn: true
+  isInteractive: true
+  isPowerSaveMode: false
+  isIgnoringBatteryOptimizations: false
+  isDeviceIdleMode: false
+  locationPowerSaveMode: LOCATION_MODE_NO_CHANGE
+ ActivityManager
+  lockTaskModeState: LOCK_TASK_MODE_NONE
+  isBackgroundRestricted: false
+ LocationManager
+  isGpsProviderEnabled: false
+  isNetworkProviderEnabled: true
+  isPassiveProviderEnabled: true
+  isLocationEnabled: true
+  isAirplaneModeOn: false
+ BatteryManager
+  Battery percentage: 87.0%

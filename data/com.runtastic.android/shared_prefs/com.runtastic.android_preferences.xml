@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="umed">mj.iam</string>
+    <boolean name="hasSeenActivitySettingsBubble" value="true" />
+    <int name="upsellingAdFrequencySessionCompleted" value="0" />
+    <string name="iap.price.com.runtastic.android.training_plan_tier_1_gold">220.000 ₫</string>
+    <string name="ucam">onboarding-mj</string>
+    <int name="hrmDongleNoiseThreshold" value="10000" />
+    <long name="followers_refresh_follow_request_count_last_update_at" value="1744353579066" />
+    <int name="autoPauseAccuracyExit" value="100" />
+    <boolean name="wasDeepLinkOpenedDuringAppSession" value="true" />
+    <boolean name="loginRequiredForPromoCode" value="false" />
+    <boolean name="wasFeatureAddPictureDuringActivityTracked" value="false" />
+    <long name="iap.price.micros.com.runtastic.android.training_plan_tier_1" value="440265000000" />
+    <int name="watchDogRestartCount" value="0" />
+    <long name="iap.price.micros.com.runtastic.android.training_plan_tier_2" value="489314000000" />
+    <int name="rnaCheckGuardInterval" value="86400000" />
+    <long name="iap.price.micros.com.runtastic.android.training_plan_tier_3" value="588097000000" />
+    <long name="iap.price.micros.com.runtastic.android.training_plan_tier_3_gold" value="293412000000" />
+    <int name="appStartCount" value="2" />
+    <string name="scr">7day_trial_promo</string>
+    <float name="flatZoneBorderLow" value="-2.0" />
+    <long name="firstAppStart" value="1744353457819" />
+    <float name="speedFilterForInvalidAcceleration" value="1.3" />
+    <long name="iap.price.micros.com.runtastic.android.training_plan_tier_2_gold" value="215969000000" />
+    <int name="LastInstalledVersion" value="2025011771" />
+    <boolean name="autoPauseAllowed" value="true" />
+    <string name="SportType">19</string>
+    <boolean name="isAppInForeground" value="false" />
+    <boolean name="IsFirstViewAfterLogin" value="false" />
+    <int name="weatherCacheTimeOut" value="3600" />
+    <boolean name="trainingPlanMobilePurchaseEnabled" value="true" />
+    <boolean name="SessionRotate180" value="false" />
+    <int name="liveTrackingMaxLocations" value="30" />
+    <string name="enrolledExperiements">RUN17244_variant.1|training_plans_cards_content_variant.0|paywall_benefits_pricing_variant.0|paywall_benefits_variant.1|RUN20121_variant.2|running_strong_promotion_variant.1|social_interactions_button_variant.2</string>
+    <string name="iap.price.com.runtastic.android.training_plan_tier_2_gold">215.969 ₫</string>
+    <long name="iap.price.micros.com.runtastic.android.gold_1month_standard_rtpt5" value="199000000000" />
+    <long name="iap.price.micros.com.runtastic.android.gold_1month_standard_rtpt3" value="209000000000" />
+    <string name="premiumTrigger">NULL</string>
+    <long name="iap.price.micros.com.runtastic.android.gold_1month_standard_rtpt1" value="110769000000" />
+    <string name="subscription">null</string>
+    <boolean name="gms" value="true" />
+    <int name="gpsLostTimeout" value="30" />
+    <string name="equipmentImageCookie">CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMW10OWxtc2ZuN2QzdS5jbG91ZGZyb250Lm5ldC9lcXVpcG1lbnRfc2hvZV9pbWFnZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjEyODA2Mn19fV19; CloudFront-Signature=VZZ1fjWA8MDoDJSB-zZW9bOydO%7EbaWW6t5UPCTcaYoO7onbaWwtvrEjqkX4dkVqnyQvm8X3511uNGSU7BNXi3SE%7Efdnb2dc3c7wKrYNTmmQKV3Jfabh5K-Tz7-LmoLiw%7EomppNKbtO2-bJnAg9eo%7ECpmk%7EV-yZXrWdabYg2ZZRjQi9tu0LrgFk2nr0fnjhQKbbbs1CYvTO%7Es-TRmphVP2%7ESfHzJDFk3PGwQVziVZlyxNnxZAVWzsCa%7EKtVsnwXoo8do8jY2E9seiQ80h0lloy-9vLb8vKvuD88EJwwTk9wsqFVfRTvDHm4%7EJy3lylNPgKl7%7EVlYU2WLLxSYckDoW-Q__; CloudFront-Key-Pair-Id=APKAIR765YYDSI24EEMA</string>
+    <long name="watchDogLastUpdate" value="-9223372036854775808" />
+    <string name="userIdsWhichHaveSeenGss">215077355,</string>
+    <string name="subscriptionList">{&quot;a&quot;:[]}</string>
+    <long name="iap.price.micros.com.runtastic.android.training_plan_tier_1_gold" value="220000000000" />
+    <string name="iap.price.currency.com.runtastic.android.training_plan_tier_2_gold">VND</string>
+    <string name="iap.price.currency.com.runtastic.android.training_plan_tier_3">VND</string>
+    <int name="usersMeRequestGuardInterval" value="30000" />
+    <string name="store">Google Play Store</string>
+    <long name="lastAppOpen" value="1744354410560" />
+    <int name="followers_follow_request_count" value="0" />
+    <boolean name="IsUpgrade" value="false" />
+    <int name="elevationServiceRefreshRate" value="60" />
+    <boolean name="showWelcomeVideo" value="true" />
+    <string name="KEY_ACTIVE_TILE3">calories</string>
+    <string name="KEY_ACTIVE_TILE4">avgPace</string>
+    <string name="KEY_ACTIVE_TILE1">duration</string>
+    <string name="KEY_ACTIVE_TILE2">distance</string>
+    <int name="goodGpsAccuracy" value="30" />
+    <string name="iap.price.currency.com.runtastic.android.training_plan_tier_2">VND</string>
+    <string name="usrc">runtastic</string>
+    <string name="iap.price.currency.com.runtastic.android.training_plan_tier_1">VND</string>
+    <boolean name="wasAskedForLocationPermissionAlready" value="false" />
+    <boolean name="liteToPremiumActive" value="false" />
+    <int name="maxGeoImageSize" value="2400" />
+    <string name="iap.price.currency.com.runtastic.android.training_plan_tier_3_gold">VND</string>
+    <boolean name="goodGpsModuleQuality" value="false" />
+    <boolean name="hasSeenMainActivity" value="true" />
+    <boolean name="useRuntasticElevationService" value="true" />
+    <long name="communityTabLastSeenContent" value="1744354796695" />
+    <int name="invalidSpeedGuardInterval" value="10" />
+    <boolean name="migrated_to_user_v2" value="true" />
+    <boolean name="PlayServicesAvailable" value="true" />
+    <long name="rt_first_app_open" value="1744353457" />
+    <float name="maxAverageFilterDistanceFactor" value="0.015" />
+    <string name="iap.price.com.runtastic.android.gold_1month_exception_rtpt3">209.000 ₫</string>
+    <string name="iap.price.com.runtastic.android.gold_1month_exception_rtpt1">155.012 ₫</string>
+    <boolean name="showRateDialog" value="true" />
+    <long name="lastSyncOnAppStart" value="419526" />
+    <string name="iap.price.com.runtastic.android.gold_1month_standard_rtpt1">110.769 ₫</string>
+    <int name="appStartsSinceLogin" value="1" />
+    <string name="iap.price.com.runtastic.android.gold_1month_standard_rtpt3">209.000 ₫</string>
+    <string name="privacySettingIdLeaderboardCore">2802057345</string>
+    <int name="selectedMapType" value="1" />
+    <boolean name="KeepScreenOn" value="true" />
+    <string name="iap.price.currency.com.runtastic.android.training_plan_tier_1_gold">VND</string>
+    <string name="INDOOR_KEY_ACTIVE_TILE3">calories</string>
+    <long name="lastUserSwitchAt" value="1744353468934" />
+    <string name="INDOOR_KEY_ACTIVE_TILE4">heartRate</string>
+    <string name="uter">2024-07</string>
+    <boolean name="enableCrossPromoScreen" value="true" />
+    <string name="INDOOR_KEY_ACTIVE_TILE1">duration</string>
+    <long name="backgroundSyncWindowDuration" value="7200000" />
+    <string name="INDOOR_KEY_ACTIVE_TILE2">currentTime</string>
+    <boolean name="installReferralHandled" value="true" />
+    <string name="uatt_ts">1744354745</string>
+    <string name="iap.price.currency.com.runtastic.android.gold_1month_exception_rtpt1">VND</string>
+    <int name="maxValidGpsAccuracy" value="100" />
+    <string name="iap.price.currency.com.runtastic.android.gold_1month_exception_rtpt3">VND</string>
+    <int name="gpsMaxPositionAge" value="10" />
+    <string name="iap.price.com.runtastic.android.gold_1month_standard_rtpt5">199.000 ₫</string>
+    <long name="backgroundSyncUtcOffset" value="-7200000" />
+    <int name="autoPauseAccuracyEnter" value="30" />
+    <string name="ucon">d0-1st-goal</string>
+    <long name="iap.price.micros.com.runtastic.android.gold_1month_exception_rtpt3" value="209000000000" />
+    <boolean name="distanceMarkersVisible" value="false" />
+    <long name="iap.price.micros.com.runtastic.android.gold_1month_exception_rtpt1" value="155012000000" />
+    <int name="adRequestInterval" value="60" />
+    <int name="liveTrackingUpdateInterval" value="30" />
+    <string name="iap.price.com.runtastic.android.training_plan_tier_3_gold">293.412 ₫</string>
+    <boolean name="deviceAccountMigratedToOauth2_production" value="true" />
+    <boolean name="isNewlyRegisteredUser" value="false" />
+    <string name="iap.price.com.runtastic.android.training_plan_tier_1">440.265 ₫</string>
+    <boolean name="remoteSettingEnableNewRelic" value="true" />
+    <long name="backgroundSyncGuardIntervalDuration" value="21600000" />
+    <float name="flatZoneBorderHigh" value="2.0" />
+    <float name="elevationServiceCanyonThreshold" value="5.0" />
+    <string name="iap.price.currency.com.runtastic.android.gold_1month_standard_rtpt1">VND</string>
+    <string name="iap.price.currency.com.runtastic.android.gold_1month_standard_rtpt5">VND</string>
+    <string name="iap.price.currency.com.runtastic.android.gold_1month_standard_rtpt3">VND</string>
+    <string name="iap.price.com.runtastic.android.training_plan_tier_3">588.097 ₫</string>
+    <long name="keyPremiumTrialSeenOn" value="1744353575197" />
+    <string name="iap.price.com.runtastic.android.training_plan_tier_2">489.314 ₫</string>
+</map>

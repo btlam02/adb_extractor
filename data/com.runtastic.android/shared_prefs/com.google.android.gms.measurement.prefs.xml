@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="deep_link_retrieval_complete" value="true" />
+    <long name="first_open_time" value="1744353456975" />
+    <string name="gmp_app_id">1:190569399906:android:e68b0acfadc0e05a</string>
+    <string name="app_instance_id">564d8551d3d80ba0dff4ac1cf4c7d896</string>
+    <long name="deep_link_retrieval_attempts" value="1" />
+    <long name="session_id" value="1744353457" />
+    <boolean name="app_backgrounded" value="true" />
+    <long name="health_monitor:start" value="1744353457583" />
+    <boolean name="use_service" value="true" />
+    <boolean name="deferred_analytics_collection" value="false" />
+    <string name="previous_os_version">9</string>
+    <boolean name="has_been_opened" value="true" />
+    <boolean name="allow_remote_dynamite" value="true" />
+    <long name="last_pause_time" value="1744354919573" />
+    <boolean name="start_new_session" value="false" />
+</map>

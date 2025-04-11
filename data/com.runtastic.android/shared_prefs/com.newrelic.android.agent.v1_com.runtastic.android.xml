@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="appVersion">13.50</string>
+    <string name="deviceArchitecture">x86_64</string>
+    <string name="osBuild">901240902</string>
+    <string name="trusted_account_key">38723</string>
+    <string name="deviceId">018218cb-b451-4b09-ad35-b62a5979f093</string>
+    <string name="appBuild">2025011771</string>
+    <string name="platform">Native</string>
+    <int name="responseBodyLimit" value="2048" />
+    <boolean name="collectNetworkErrors" value="true" />
+    <string name="osVersion">9</string>
+    <long name="maxTransactionCount" value="1000" />
+    <string name="dataToken">[30093005,1134546803]</string>
+    <string name="platformVersion">7.2.1</string>
+    <string name="crossProcessId">Vw4AU1VACwMAXVJSBwQ=</string>
+    <string name="deviceManufacturer">samsung</string>
+    <long name="harvestIntervalInSeconds" value="60" />
+    <long name="maxTransactionAgeInSeconds" value="600" />
+    <int name="connectHash" value="986444622" />
+    <long name="serverTimestamp" value="1744353463" />
+    <string name="appName">adidas Running</string>
+    <int name="errorLimit" value="50" />
+    <string name="packageId">com.runtastic.android</string>
+    <string name="agentName">AndroidAgent</string>
+    <string name="osName">Android</string>
+    <string name="encoding_key">d67afc830dab717fd163bfcb0b8b88423e9a1a3b</string>
+    <string name="application_id">30093005</string>
+    <int name="versionCode" value="2025011771" />
+    <string name="account_id">38723</string>
+    <string name="deviceSize">large</string>
+    <int name="stackTraceLimit" value="100" />
+    <string name="agentVersion">7.2.1</string>
+    <string name="deviceModel">SM-S9210</string>
+    <string name="deviceRunTime">2.1.0</string>
+    <float name="activityTraceMinUtilization" value="0.3" />
+    <long name="dataTokenExpiration" value="1745563064581" />
+</map>

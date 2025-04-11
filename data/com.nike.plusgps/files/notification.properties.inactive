@@ -1,8 +1,0 @@
-#Wed Apr 09 12:11:17 GMT+07:00 2025
-notificationChannelId=RUN_TRACKING_MESSAGE
-color=ff111111
-subText=
-smallIconId=2131232375
-targetClass=com.nike.plusgps.inrun.phone.main.InRunActivity
-text=Nike\u2060 Run Club is tracking your run
-title=Nike\u2060 Run Club

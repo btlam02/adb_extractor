@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="SET_USER_CONTACT_FOR_EMARSYS" value="true" />
+</map>

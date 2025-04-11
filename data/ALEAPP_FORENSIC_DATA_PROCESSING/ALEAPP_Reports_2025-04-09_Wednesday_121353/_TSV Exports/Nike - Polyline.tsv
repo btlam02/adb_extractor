@@ -1,2 +1,0 @@
-﻿Activity ID	Start Time UTC	End Time UTC	Duration	Coordinates KML	Coordinates Excel	Button
-3	2025-04-09 04:52:16	2025-04-09 05:08:34	13.22	"<a href=Nike-Run/3.kml class=""badge badge-light"" target=""_blank"">3.kml</a>"	"<a href=Nike-Run/3.xlsx class=""badge badge-light"" target=""_blank"">3.xlsx</a>"	"<button type=""button"" class=""btn btn-light btn-sm"" onclick=""openMap('3')"">Show Map</button>"

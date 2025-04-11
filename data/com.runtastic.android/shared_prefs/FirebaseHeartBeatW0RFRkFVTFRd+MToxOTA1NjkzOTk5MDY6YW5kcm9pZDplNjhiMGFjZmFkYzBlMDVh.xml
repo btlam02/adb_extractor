@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="android-min-sdk/28 kotlin/2.0.21 fire-installations/18.0.0 fire-transport/18.2.0 fire-rc/22.0.0 fire-dl/22.1.0 fire-android/28 fire-abt/21.1.1 device-brand/samsung android-installer/com.android.vending fire-core/21.0.0 device-model/star2gltechn fire-core-ktx/21.0.0 fire-fcm/24.0.2 fire-analytics/22.1.2 android-platform/ device-name/SM-S9210 android-target-sdk/34">
+        <string>2025-04-11</string>
+    </set>
+    <long name="fire-count" value="1" />
+    <string name="last-used-date">2025-04-11</string>
+    <long name="fire-global" value="1744353457219" />
+</map>

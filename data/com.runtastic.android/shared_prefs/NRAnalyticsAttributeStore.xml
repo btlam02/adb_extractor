@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="rt_application_app_platform">android</string>
+    <string name="rt_run_session_gps_in_battery_saver_mode_after_session">false</string>
+    <string name="rt_adjust_sdk_enabled">true</string>
+    <string name="rt_session_state">app_start</string>
+    <string name="rt_application_app_key">com.runtastic.android</string>
+    <string name="rt_device_density">hdpi</string>
+    <string name="rt_run_session_gps_in_battery_saver_mode">false</string>
+    <string name="rt_application_app_version">13.50</string>
+    <string name="rt_application_app_branch">runtastic</string>
+    <string name="rt_device_id">1dcc2ad9-c822-4792-ae31-9fc29fcc7e33</string>
+    <string name="rt_application_app_key_version">com.runtastic.android-13.50</string>
+    <string name="rt_run_session_battery_saver_mode_on">false</string>
+    <string name="rt_run_session_battery_saver_mode_on_after_session">false</string>
+</map>

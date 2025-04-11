@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="com.runtastic.android.running.migration_migrationVersion" value="2" />
+    <long name="lastInstalledAppVersionCode" value="2025011771" />
+</map>

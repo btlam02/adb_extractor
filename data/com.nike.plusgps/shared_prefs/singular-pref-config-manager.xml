@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="config_manager_config">{&quot;admon_batching&quot;:{&quot;AggregateAdmonEvents&quot;:false,&quot;debug&quot;:false}}</string>
-</map>

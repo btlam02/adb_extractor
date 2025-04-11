@@ -1,0 +1,19 @@
+1744354750833
+1744354751032
+1
+15
+content-type: application/octet-stream
+content-length: 126218
+last-modified: Fri, 19 Jul 2024 12:35:34 GMT
+x-amz-server-side-encryption: AES256
+content-encoding: base64
+x-amz-version-id: null
+accept-ranges: bytes
+server: AmazonS3
+date: Fri, 11 Apr 2025 06:47:48 GMT
+etag: "ef5de15082426e9ec5909ae5f8d15ae6"
+x-cache: Hit from cloudfront
+via: 1.1 953dc9e4664e96584df16861734009d2.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX54-P3
+x-amz-cf-id: XYZfx9PcSOEPN-TUOlaomwM5n_bEhVnJpK1SWlEose9PFupFzOKd-Q==
+age: 745

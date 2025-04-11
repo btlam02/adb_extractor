@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="ActivityRepositoryImplnextInsertPageId"></string>
-    <string name="ActivityRepositoryImplprevInsertPageId">*</string>
-    <long name="ActivityRepositoryImpllastSuccessfulSyncMs" value="3618893" />
-    <string name="ActivityRepositoryImplmostRecentChangeToken">ca9627bacf237b0135838d55056e226d2d907d9eb90ca012265c54fe35c49906:1744175365518</string>
-</map>
