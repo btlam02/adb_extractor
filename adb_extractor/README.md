@@ -13,7 +13,7 @@ Python tool to extract Private, Public and APK File from Android emulator or dev
 
 ```bash
 git clone 
-cd ADB-Extractor
+cd adb_extractor/adb_extractor
 pip3 install -r requirements.txt
 ```
 
@@ -23,7 +23,7 @@ pip3 install -r requirements.txt
 python3 adb_GUI.py
 ```
 
-## Scripts Usage
+## Scripts base on  
 
 ```bash
 adb shell pm path <package name>
@@ -38,7 +38,3 @@ adb shell su -c "cp -r /data/data/<package name> /path/to/save/private_data"
 
 ## OS
 Tested on  Windows and MacOS.
-
-## Credits
-
-Script based on the work of @mfrade and is bash implementation https://github.com/labcif/AndroidAcquisitionScript .
